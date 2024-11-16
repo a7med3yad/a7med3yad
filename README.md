@@ -19,10 +19,9 @@ I'm Ahmed. By day, I'm a data science wizard, wrangling datasets and conjuring u
 <p><br></p>
 
 ### Github State
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&theme=light&show_icons=true&theme=holi)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&theme=dark&show_icons=true?theme=holi)
 
 ### Contact:
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
 - **Email:** [Your Email](ahmed.ibrahim01974@gmail.com)
-
 
