@@ -16,10 +16,9 @@ I'm Ahmed. By day, I'm a data science wizard, wrangling datasets and conjuring u
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<p><br></p>
 
-
-
-   ### Github State
+### Github State
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&theme=dark&show_icons=true&theme=github_dark)
 
 ### Projects:
