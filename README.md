@@ -16,4 +16,4 @@ I'm Ahmed. By day, I'm a data science wizard, wrangling datasets and conjuring u
 <i class="devicon-vscode-plain colored"></i>
 
 ###State:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true&theme=github_dark)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&theme=dark&show_icons=true&theme=github_dark)
