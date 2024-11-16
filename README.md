@@ -21,18 +21,8 @@ I'm Ahmed. By day, I'm a data science wizard, wrangling datasets and conjuring u
 ### Github State
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&theme=dark&show_icons=true&theme=github_dark)
 
-### Projects:
-- **Project 1:** Description of your project.
-- **Project 2:** Description of your project.
-- **Project 3:** Description of your project.
-
-### Achievements:
-- **Competitive Programming:** Highlight any major competitions or rankings.
-- **Certifications:** List any relevant certifications.
-- **Publications:** Mention any papers or articles you've published.
-
 ### Contact:
-- **LinkedIn:** Your LinkedIn Profile
-- **Email:** Your Email
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
+- **Email:** [Your Email](ahmed.ibrahim01974@gmail.com)
 
 
