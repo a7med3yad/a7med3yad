@@ -22,7 +22,7 @@ I'm Ahmed. By day, I'm a data science wizard, wrangling datasets and conjuring u
 
 
 ### State :
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&theme=light&show_icons=true?theme=github_dark)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&theme=light&show_icons=true?theme=default)
 
 ### Contact:
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
