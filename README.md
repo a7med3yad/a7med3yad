@@ -22,6 +22,12 @@ Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets 
 ## GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&rank_icon=github&hide_title=true&show=prs_merged&hide=prs&bg_color=0a0a23&title_color=c5c8c6&text_color=b4b7b4&icon_color=c5c8c6&rank_icon=github&rank=G,C+)
 
+## Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&bg_color=0a0a23&title_color=c5c8c6&text_color=b4b7b4&icon_color=c5c8c6)
+
+## GitHub Activity Graph:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=a7med3yad&theme=react-dark)
+
 ## Contact:
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
 - **Email:** [ahmed.ibrahim01974@gmail.com](mailto:ahmed.ibrahim01974@gmail.com)
