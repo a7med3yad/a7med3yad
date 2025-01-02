@@ -20,7 +20,7 @@ Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets 
 </p>
 
 ## GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&rank_icon=github&hide_title=true&show=prs_merged&hide=prs&bg_color=000080&title_color=c5c8c6&text_color=b4b7b4&icon_color=c5c8c6)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&rank_icon=github&hide_title=true&show=prs_merged&hide=prs&bg_color=000033&title_color=c5c8c6&text_color=b4b7b4&icon_color=c5c8c6&rank_icon=github&rank=G,C+)
 
 ## Contact:
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
