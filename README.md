@@ -25,9 +25,6 @@ Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets 
 ## Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=radical)
 
-## GitHub Activity Graph:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a7med3yad&theme=radical)
-
 ## Contact:
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
 - **Email:** [ahmed.ibrahim01974@gmail.com](mailto:ahmed.ibrahim01974@gmail.com)
