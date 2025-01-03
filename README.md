@@ -41,10 +41,10 @@ Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets 
 </p>
 
 ## GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=dark)
 
 ## Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=dark)
 
 ## Contact:
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
