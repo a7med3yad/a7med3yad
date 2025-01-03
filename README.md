@@ -22,8 +22,6 @@ Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets 
 ## GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=tokyonight)
 
-## Contributions Graph:
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=a7med3yad&theme=tokyonight)
 
 ## Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=tokyonight)
