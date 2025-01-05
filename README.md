@@ -4,6 +4,8 @@
 
 Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets into powerful insights and innovative algorithms. By night, I transform into a competitive coding ninja, deftly solving complex problems and mastering challenging algorithms.
 
+---
+
 ## Languages and Tools:
 <p align="left">
   <img alt="Java" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
@@ -19,16 +21,17 @@ Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets 
   <img alt="VSCode" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 </p>
 
+---
+
 ## GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=tokyonight)
 
+---
 
 ## Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=tokyonight)
 
-[![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&hide_title=true&count_private=true)](https://github.com/a7med3yad)
-
-![GitHub Activity Metrics](https://github.com/a7med3yad/a7med3yad/blob/main/github-metrics.svg)
+---
 
 ## Best Repositories
 
@@ -44,8 +47,7 @@ An insightful project analyzing automotive sales data to uncover trends and gene
 
 [![Auto Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=a7med3yad&repo=Auto-Sales-Analysis&theme=dark)](https://github.com/a7med3yad/Auto-Sales-Analysis)
 
-
-
+---
 
 ## Contact:
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
