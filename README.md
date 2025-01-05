@@ -26,6 +26,27 @@ Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets 
 ## Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=tokyonight)
 
+[![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&hide_title=true&count_private=true)](https://github.com/a7med3yad)
+
+![GitHub Activity Metrics](https://github.com/a7med3yad/a7med3yad/blob/main/github-metrics.svg)
+
+## Best Repositories
+
+### [University Management System](https://github.com/a7med3yad/University_Managment_System)
+A comprehensive system for managing university operations, including student records, course management, and faculty administration. It provides an intuitive interface and robust functionality to handle educational institution workflows effectively.
+
+[![University Management System](https://github-readme-stats.vercel.app/api/pin/?username=a7med3yad&repo=University_Managment_System&theme=dark)](https://github.com/a7med3yad/University_Managment_System)
+
+---
+
+### [Auto Sales Analysis](https://github.com/a7med3yad/Auto-Sales-Analysis)
+An insightful project analyzing automotive sales data to uncover trends and generate actionable insights. This repository demonstrates data visualization, statistical analysis, and reporting.
+
+[![Auto Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=a7med3yad&repo=Auto-Sales-Analysis&theme=dark)](https://github.com/a7med3yad/Auto-Sales-Analysis)
+
+
+
+
 ## Contact:
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
 - **Email:** [ahmed.ibrahim01974@gmail.com](mailto:ahmed.ibrahim01974@gmail.com)
