@@ -33,10 +33,6 @@ Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets 
 
 ---
 
-## GitHub Contributions:
-![GitHub Contributions](https://ghchart.rshah.org/a7med3yad)
-
----
 
 ## Best Repositories
 
