@@ -1,6 +1,6 @@
 # Ahmed Ayad
 
-**`Data Scientist | Instructor | Competitive Programmer`**
+**`Data Scientist | Competitive Programmer`**
 
 Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets into powerful insights and innovative algorithms. By night, I transform into a competitive coding ninja, deftly solving complex problems and mastering challenging algorithms.
 
