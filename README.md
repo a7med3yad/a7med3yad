@@ -2,7 +2,7 @@
 
 **`Data Scientist | Competitive Programmer`**
 
-Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets into powerful insights and innovative algorithms. By night, I transform into a competitive coding ninja, deftly solving complex problems and mastering challenging algorithms.
+Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets into powerful insights and innovative algorithms. By night, I transform into a competitive coding ninja, deftly solving [...]
 
 ---
 
@@ -33,10 +33,15 @@ Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets 
 
 ---
 
+## GitHub Contributions:
+![GitHub Contributions](https://ghchart.rshah.org/a7med3yad)
+
+---
+
 ## Best Repositories
 
 ### [University Management System](https://github.com/a7med3yad/University_Managment_System)
-A comprehensive system for managing university operations, including student records, course management, and faculty administration. It provides an intuitive interface and robust functionality to handle educational institution workflows effectively.
+A comprehensive system for managing university operations, including student records, course management, and faculty administration. It provides an intuitive interface and robust functionality to [...]
 
 [![University Management System](https://github-readme-stats.vercel.app/api/pin/?username=a7med3yad&repo=University_Managment_System&theme=onedark)](https://github.com/a7med3yad/University_Managment_System)
 
