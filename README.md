@@ -54,6 +54,5 @@ An insightful project analyzing automotive sales data to uncover trends and gene
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
 - **Email:** [ahmed.ibrahim01974@gmail.com](mailto:ahmed.ibrahim01974@gmail.com)
 
----
 
 Feel free to reach out for collaboration, mentorship, or just a friendly chat about data science, programming, or competitive coding. Let's connect and create something amazing together!
