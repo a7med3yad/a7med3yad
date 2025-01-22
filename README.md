@@ -24,7 +24,7 @@ Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets 
 ---
 
 ## GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=onedark)
 
 ---
 
