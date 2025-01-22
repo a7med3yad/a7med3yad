@@ -2,7 +2,7 @@
 
 **`Data Scientist | Competitive Programmer`**
 
-Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets into powerful insights and innovative algorithms. By night, I transform into a competitive coding ninja, deftly solving complex problems and participating in programming contests.
+I am a junior data scientist with a strong foundation in data analytics, machine learning, and AI algorithms like classification, clustering, and searching. Currently, I am enhancing my skills in competitive programming algorithms and expanding my expertise into backend development using .NET.
 
 ---
 
