@@ -2,29 +2,40 @@
 
 **`Data Scientist | Competitive Programmer`**
 
-Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets into powerful insights and innovative algorithms. By night, I transform into a competitive coding ninja, deftly solving [...]
+Hello, I'm Ahmed. By day, I unravel the mysteries of data, turning raw datasets into powerful insights and innovative algorithms. By night, I transform into a competitive coding ninja, deftly solving complex problems and participating in programming contests.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## **Skills**
+
+### **Programming Languages**
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.w3schools.com/cpp/) 
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://www.w3schools.com/cs/) 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
+### **Tools & Technologies**
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server) 
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+
 ---
 
-## GitHub Stats:
+## **GitHub Stats**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=midnight-purple)
 
 ---
 
-## Top Languages:
+## **Top Languages**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=midnight-purple)
 
 ---
 
-
-## Best Repositories
+## **Best Repositories**
 
 ### [University Management System](https://github.com/a7med3yad/University_Managment_System)
-A comprehensive system for managing university operations, including student records, course management, and faculty administration. It provides an intuitive interface and robust functionality to [...]
+A comprehensive system for managing university operations, including student records, course management, and faculty administration. It provides an intuitive interface and robust functionality to simplify university workflows.
 
 [![University Management System](https://github-readme-stats.vercel.app/api/pin/?username=a7med3yad&repo=University_Managment_System&theme=midnight-purple)](https://github.com/a7med3yad/University_Managment_System)
 
@@ -37,9 +48,9 @@ An insightful project analyzing automotive sales data to uncover trends and gene
 
 ---
 
-## Contact:
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
-- **Email:** [ahmed.ibrahim01974@gmail.com](mailto:ahmed.ibrahim01974@gmail.com)
+## **Contact**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.ibrahim01974@gmail.com)
 
 Feel free to reach out for collaboration, mentorship, or just a friendly chat about data science, programming, or competitive coding. Let's connect and create something amazing together!
