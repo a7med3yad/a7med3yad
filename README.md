@@ -25,7 +25,7 @@ I am a junior data scientist with a strong foundation in data analytics, machine
 ---
 
 ## **GitHub Stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=midnight-purple)
 
 ---
 
