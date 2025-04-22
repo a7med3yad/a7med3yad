@@ -30,7 +30,7 @@ I am a junior data scientist with a strong foundation in data analytics, machine
 ---
 
 ## **Top Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=midnight)
 
 ---
 
