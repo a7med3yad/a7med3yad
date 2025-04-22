@@ -34,22 +34,6 @@ I am a junior data scientist with a strong foundation in data analytics, machine
 
 ---
 
-## **Best Repositories**
-
-### [University Management System](https://github.com/a7med3yad/University_Managment_System)
-A comprehensive system for managing university operations, including student records, course management, and faculty administration. It provides an intuitive interface and robust functionality to simplify university workflows.
-
-[![University Management System](https://github-readme-stats.vercel.app/api/pin/?username=a7med3yad&repo=University_Managment_System&theme=midnight-purple)](https://github.com/a7med3yad/University_Managment_System)
-
----
-
-### [Auto Sales Analysis](https://github.com/a7med3yad/Auto-Sales-Analysis)
-An insightful project analyzing automotive sales data to uncover trends and generate actionable insights. This repository demonstrates data visualization, statistical analysis, and reporting.
-
-[![Auto Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=a7med3yad&repo=Auto-Sales-Analysis&theme=midnight-purple)](https://github.com/a7med3yad/Auto-Sales-Analysis)
-
----
-
 ## **Contact**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/) 
