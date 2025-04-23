@@ -35,7 +35,7 @@ I'm a junior data scientist with a solid foundation in data analytics, machine l
 ---
 
 ## 🔥 **Streak**
-![GitHub stats](https://streak-stats.demolab.com?user=a7med3yad&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=a7med3yad&theme=tokyonight&hide_border=true)
 
 ---
 
