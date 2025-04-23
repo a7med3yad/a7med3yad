@@ -25,14 +25,18 @@ I am a junior data scientist with a strong foundation in data analytics, machine
 ---
 
 ## **GitHub Stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=midnight-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=tokyonight)
 
 ---
 
 ## **Top Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=midnight-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=tokyonight)
 
 ---
+
+## **Streak**
+
+<img src="https://streak-stats.demolab.com?user=a7med3yad&theme=tokyonight&hide_border=true" alt="a7med3yad's GitHub Stats" />
 
 ## **Contact**
 
