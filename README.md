@@ -25,12 +25,12 @@ I'm a junior data scientist with a solid foundation in data analytics, machine l
 ---
 
 ## **GitHub Stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=tokyonight)
 
 ---
 
 ##  **Top Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=)
 
 ---
 
