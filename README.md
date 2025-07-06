@@ -4,7 +4,6 @@
 
 I'm a junior data scientist with a solid foundation in data analytics, machine learning, and AI algorithms like classification, clustering, and searching. I'm currently diving deeper into competitive programming and expanding my skills in backend development using .NET.
 
----
 
 ## **Skills**
 
@@ -28,24 +27,20 @@ I'm a junior data scientist with a solid foundation in data analytics, machine l
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
----
 
 ## **Competitive Programming Profiles**
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abou_3yad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/a7med3yad/)
 
----
 
 ## **GitHub Stats**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=tokyonight)
 
----
 
 ## **Top Languages**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=tokyonight)
 
----
 
 ## **Contact Me**
 
