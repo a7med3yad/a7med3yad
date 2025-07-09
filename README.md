@@ -36,6 +36,8 @@ Currently, I'm expanding my skills in competitive programming and backend develo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=tokyonight)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=a7med3yad&theme=darkhub&no-frame=true&column=7)
+
 
 
 ##  Featured Projects
