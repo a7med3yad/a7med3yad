@@ -28,7 +28,6 @@ Currently, I'm expanding my skills in competitive programming and backend develo
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
----
 
 ##  GitHub Stats
 
@@ -36,7 +35,8 @@ Currently, I'm expanding my skills in competitive programming and backend develo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=tokyonight)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=a7med3yad&theme=darkhub&no-frame=true&column=7)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=a7med3yad&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 
 
