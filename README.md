@@ -1,4 +1,4 @@
-# 👨‍💻 Ahmed Ayad
+#  Ahmed Ayad
 
 **`Junior Data Scientist | Competitive Programmer | Backend Developer`**
 
@@ -32,13 +32,13 @@ Currently, I'm expanding my skills in competitive programming and backend develo
 
 ##  GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=tokyonight)
 
 
-## 🚀 Featured Projects
+
+##  Featured Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
