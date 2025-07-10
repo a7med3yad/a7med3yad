@@ -32,7 +32,11 @@
 
 ###  Tools & Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=jupyter,tensorflow,scikit-learn,git,docker)](https://github.com/a7med3yad)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
 
 
 ###  GitHub Trophies
