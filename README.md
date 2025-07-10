@@ -1,19 +1,13 @@
-<!--
-**a7med3yad/a7med3yad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ### 👋 Hi there, I'm Ahmed Ayad
 
----
 
-### 🔎 Brief About Me
+### Brief About Me
 
-- 🎓 Junior **Data Scientist**, **Competitive Programmer**, and **Backend Developer**.
-- 🧠 Experienced with ML/AI techniques: classification, clustering, pattern recognition.
-- 💻 Building backends with **.NET** and working with **AWS**.
-- 💬 Ask me about **Python, C++, and problem solving**.
+- **Data Scientist**, **Competitive Programmer**, and **Backend Developer**.
+-  Experienced with ML/AI techniques: classification, clustering, pattern recognition.
+-  Building backends with **.NET** and working with **AWS**.
+-  Ask me about **Python, C++, and problem solving**.
 
----
 
 ### 📈 GitHub Stats
 
@@ -25,33 +19,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a7med3yad&hide_border=true&show_icons=true&locale=en&layout=compact&langs_count=6&title_color=4694f8&theme=github_dark" alt="Top Languages" />
 </a>
 
----
 
-### 🌐 Web & Backend Development
+###  Web & Backend Development
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,aws,mysql,postgres,sqlserver)](https://github.com/a7med3yad)
 
----
 
-### 🧠 Programming Languages
+###  Programming Languages
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,c,cs,java,dart,r)](https://github.com/a7med3yad)
 
----
 
-### 🛠️ Tools & Libraries
+###  Tools & Libraries
 
 [![My Skills](https://skillicons.dev/icons?i=jupyter,tensorflow,scikit-learn,git,docker)](https://github.com/a7med3yad)
 
----
 
-### 🏆 GitHub Trophies
+###  GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=a7med3yad&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
----
 
-### 🔬 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
@@ -63,24 +52,14 @@
 
 🌐 **Live Portfolio:** [vermillion-capybara-db2b78.netlify.app](https://vermillion-capybara-db2b78.netlify.app/)
 
----
 
-### 🏁 Competitive Programming
+###  Competitive Programming
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abou_3yad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/a7med3yad/)
 
----
 
-### 📬 Connect With Me
+###  Connect With Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ahmed.ibrahim01974@gmail.com)
-
----
-
-<!-- Optional extras:
-### 📚 Currently Learning
-- AWS Lambda, Serverless
-- Advanced ML (XGBoost, LightGBM)
--->
