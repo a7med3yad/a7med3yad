@@ -4,14 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a7med3yad&label=Profile%20views&color=0e75b6&style=flat" alt="a7med3yad"/> </p>
 <br>
 
+[![committers.top badge](https://user-badge.committers.top/egypt/a7med3yad.svg)](https://committers.top/egypt.html)
 ### Brief About Me
 
 - **Data Scientist**, **Competitive Programmer**, and **Backend Developer**.
 -  Experienced with ML/AI techniques: classification, clustering, pattern recognition.
 -  Building backends with **.NET** and working with **AWS**.
 -  Ask me about **Python, C++, and problem solving**.
-
-[![committers.top badge](https://user-badge.committers.top/egypt/a7med3yad.svg)](https://committers.top/egypt.html)
 
 ### 📈 GitHub Stats
 
