@@ -11,6 +11,7 @@
 -  Building backends with **.NET** and working with **AWS**.
 -  Ask me about **Python, C++, and problem solving**.
 
+[![committers.top badge](https://user-badge.committers.top/egypt/a7med3yad.svg)](https://committers.top/egypt.html)
 
 ### 📈 GitHub Stats
 
