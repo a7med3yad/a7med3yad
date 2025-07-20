@@ -14,6 +14,12 @@
 -  Building backends with **.NET** and working with **AWS**.
 -  Ask me about **Python, C++, and problem solving**.
 
+> I am a data scientist and self-taught backend developer with a passion for solving real-world problems through code.  
+> I provide data-driven insights and backend systems using Pythonو .NET, and ML tools.  
+> For teams and companies aiming to turn complex data into actionable solutions.  
+> To help them build scalable systems, extract insights, and make smarter decisions faster.
+
+
 ### 📈 GitHub Stats
 
 <a href="https://github.com/a7med3yad">
