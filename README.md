@@ -9,13 +9,13 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-- 🎯 **Data Scientist**, **Backend Developer**, and **Competitive Programmer**.
-- 💡 I enjoy transforming data into insights, building scalable systems, and solving real-world challenges.
-- 🧪 Proficient in **Machine Learning**, **Pattern Recognition**, and **Clustering Techniques**.
-- 🛠️ Backend engineer working with **.NET**, **SQL**, and **AWS Cloud** services.
-- 💬 Ask me about **Python, C++, Algorithms**, and **System Design**.
+-  **Data Scientist**, **Backend Developer**, and **Competitive Programmer**.
+-  I enjoy transforming data into insights, building scalable systems, and solving real-world challenges.
+-  Proficient in **Machine Learning**, **Pattern Recognition**, and **Clustering Techniques**.
+-  Backend engineer working with **.NET**, **SQL**, and **AWS Cloud** services.
+-  Ask me about **Python, C++, Algorithms**, and **System Design**.
 
 > I'm passionate about uncovering hidden patterns in data and turning them into actionable solutions.  
 > Whether it's analyzing customer behavior or designing performant backends, I bring ideas to life using tech.  
@@ -23,7 +23,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=c5d2da&title_color=4694f8&icon_color=4694f8" height="180"/>
@@ -32,15 +32,15 @@
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
-#### 🔧 Web & Backend
+####  Web & Backend
 [![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,aws,mysql,postgres,sqlserver)](https://github.com/a7med3yad)
 
-#### 💻 Programming Languages
+####  Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,c,cs,java,dart,r)](https://github.com/a7med3yad)
 
-#### ⚙️ Tools & Libraries
+####  Tools & Libraries
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -52,36 +52,19 @@
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=a7med3yad&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
----
 
-### 🚀 Featured Projects
-
-| 💼 Project | 📝 Description | 🧪 Tools |
-|-----------|----------------|----------|
-| [**Breast Cancer Classifier**](https://github.com/a7med3yad/Breast-Cancer-Analysis-App) | Web app for tumor classification using ML models. | `Python`, `Streamlit`, `scikit-learn` |
-| [**Hotel RFM Analysis**](https://github.com/a7med3yad/Hotel_Managment_RFM_Analysis) | Customer segmentation using RFM analysis. | `Pandas`, `Matplotlib` |
-| [**Store Performance Segmentation**](https://github.com/a7med3yad/store-performance-segmentation) | Clustering stores based on key KPIs. | `EDA`, `scikit-learn` |
-| [**Grocery Sales Analysis**](https://github.com/a7med3yad/GROCERY-SALES-ANALYSIS) | Exploratory sales analysis in R. | `R`, `ggplot2`, `dplyr` |
-| [**Student-Course Network**](https://github.com/a7med3yad/NetworkAnalysisOnStudentCourses) | Graph-based analysis of course enrollments. | `NetworkX`, `Matplotlib` |
-
-🌐 **[Live Portfolio Website](https://vermillion-capybara-db2b78.netlify.app/)**
+ **[Live Portfolio Website](https://vermillion-capybara-db2b78.netlify.app/)**
 
 ---
 
-### 🎯 Competitive Programming
+###  Competitive Programming
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abou_3yad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/a7med3yad/)
 
 ---
 
-### 📬 Connect With Me
+###  Connect With Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ahmed.ibrahim01974@gmail.com)
-
----
-
-### ✨ Fun Fact
-
-When I'm not debugging code or analyzing data, I enjoy watching tech documentaries, designing systems, and contributing to open-source whenever I can.
