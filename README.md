@@ -56,6 +56,8 @@
  **[Live Portfolio Website](https://ahmed3yad.netlify.app/)**
 
 ---
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=a7med3yad&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
+---
 
 ###  Competitive Programming
 
