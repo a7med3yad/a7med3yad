@@ -25,10 +25,8 @@
 
 ###  GitHub Stats
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=c5d2da&title_color=4694f8&icon_color=4694f8" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a7med3yad&hide_border=true&show_icons=true&locale=en&layout=compact&langs_count=6&title_color=4694f8&theme=github_dark" height="180"/>
-</p>
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=a7med3yad&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="a7med3yad's Top Languages" align="right" width="295">
+
 
 ---
 
