@@ -24,12 +24,9 @@
 ---
 
 ###  GitHub Stats
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=a7med3yad&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats" 
-  alt="a7med3yad's Top Languages" 
-  align="right" 
-  width="295"
-/>
+
+![a7med3yad's GitHub Stats][github-stats-img]
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=a7med3yad&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats)
 
 
