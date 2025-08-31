@@ -24,8 +24,14 @@
 ---
 
 ###  GitHub Stats
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=a7med3yad&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats" 
+  alt="a7med3yad's Top Languages" 
+  align="right" 
+  width="295"
+/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=a7med3yad&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats)
 
-<img src="https://a7med3yad-readme-stats.vercel.app/api/top-langs?username=a7med3yad&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="a7med3yad's Top Languages" align="right" width="295">
 
 
 ---
