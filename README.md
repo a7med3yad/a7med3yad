@@ -8,18 +8,13 @@
 </p>
 
 ---
+###  about me
 
-###  About Me
+It started with curiosity—why systems work the way they do, why some solutions scale while others break, and how raw information can be transformed into something meaningful.
+That curiosity grew into building algorithms, solving challenges, and exploring the unseen patterns hidden in data.
+Over time, the focus shifted from just solving problems to creating systems—backends that power ideas, architectures that stand the test of scale, and insights that guide real decisions.
+Today, it’s about more than code or models. It’s about shaping technology that connects intelligence with impact, turning complexity into clarity, and driving progress at the intersection of data and engineering.
 
--  **Data Scientist**, **Backend Developer**, and **Competitive Programmer**.
--  I enjoy transforming data into insights, building scalable systems, and solving real-world challenges.
--  Proficient in **Machine Learning**, **Pattern Recognition**, and **Clustering Techniques**.
--  Backend engineer working with **.NET**, **SQL**, and **AWS Cloud** services.
--  Ask me about **Python, C++, Algorithms**, and **System Design**.
-
-> I'm passionate about uncovering hidden patterns in data and turning them into actionable solutions.  
-> Whether it's analyzing customer behavior or designing performant backends, I bring ideas to life using tech.  
-> I thrive at the intersection of data and software—where insights drive engineering.
 
 ---
 
