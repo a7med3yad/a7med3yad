@@ -35,7 +35,7 @@ Today, it’s about more than code or models. It’s about shaping technology th
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,c,cs,java,dart,r)](https://github.com/a7med3yad)
 
 ####  Tools & Libraries
-[![My Skills](https://skillicons.dev/icons?i=git,docker,jupyter,sklearn,tensorflow)](https://github.com/a7med3yad)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,sklearn,tensorflow)](https://github.com/a7med3yad)
 
 ---
 
