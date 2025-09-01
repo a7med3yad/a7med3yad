@@ -10,9 +10,9 @@
 ---
 ###  about me
 
-It started with curiosity—why systems work the way they do, why some solutions scale while others break, and how raw information can be transformed into something meaningful.
+It started with curiosity why systems work the way they do, why some solutions scale while others break, and how raw information can be transformed into something meaningful.
 That curiosity grew into building algorithms, solving challenges, and exploring the unseen patterns hidden in data.
-Over time, the focus shifted from just solving problems to creating systems—backends that power ideas, architectures that stand the test of scale, and insights that guide real decisions.
+Over time, the focus shifted from just solving problems to creating systems backends that power ideas, architectures that stand the test of scale, and insights that guide real decisions.
 Today, it’s about more than code or models. It’s about shaping technology that connects intelligence with impact, turning complexity into clarity, and driving progress at the intersection of data and engineering.
 
 
