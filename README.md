@@ -6,7 +6,7 @@
     <img src="https://user-badge.committers.top/egypt/a7med3yad.svg" alt="Top Committer Badge"/>
   </a>
 </p>
----
+
 ###  about me
 
   It started with curiosity why systems work the way they do, why some solutions scale while others break, and how raw information can be transformed into something   meaningful.
