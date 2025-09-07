@@ -1,7 +1,11 @@
 ## 👋 Hi there, I'm Ahmed Ayad
 
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=a7med3yad&label=Profile%20views&color=0e75b6&style=flat" alt="a7med3yad" />
+  <a href="https://committers.top/egypt.html">
+    <img src="https://user-badge.committers.top/egypt/a7med3yad.svg" alt="Top Committer Badge"/>
+  </a>
+</p>
 ---
 ###  about me
 
