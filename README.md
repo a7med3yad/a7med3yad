@@ -41,12 +41,22 @@ The focus now is on connecting intelligence with impact.
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat&logo=openjdk&logoColor=F89820)
 ![Dart](https://img.shields.io/badge/Dart-0d1117?style=flat&logo=dart&logoColor=0175C2)
 ![R](https://img.shields.io/badge/R-0d1117?style=flat&logo=r&logoColor=276DC3)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat&logo=go&logoColor=00ADD8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat&logo=gnu-bash&logoColor=4EAA25)
 
+---
 #### Tools & Libraries
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat&logo=kubernetes&logoColor=326CE5)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat&logo=mongodb&logoColor=47A248)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0d1117?style=flat&logo=elasticsearch&logoColor=005571)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat&logo=scikitlearn&logoColor=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=EE4C2C)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=013243)
 
 ---
 
