@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Ahmed Ayad
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a7med3yad&label=Profile%20views&color=gray&style=flat-square" alt="a7med3yad" />
+  <img src="https://komarev.com/ghpvc/?username=a7med3yad&label=Profile%20views&color=red&style=flat-square" alt="a7med3yad" />
 </p>
 
 ---
