@@ -14,11 +14,6 @@ The focus now is on connecting intelligence with impact.
 
 ---
 
-###  GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=a7med3yad&layout=compact&card_width=275&theme=github_dark&langs_count=12&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats&hide_border=true)
-
----
 
 ### Tech Stack
 
