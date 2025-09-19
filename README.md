@@ -15,6 +15,19 @@ The focus now is on connecting intelligence with impact.
 ---
 
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+
 ### Tech Stack
 
 #### Web & Backend
