@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Ahmed Ayad
-// https://claude.ai/share/d9ce4202-c620-44a4-8cb6-4cbe70502f4c
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=a7med3yad&label=Profile%20views&color=red&style=flat-square" alt="a7med3yad" />
 </p>
