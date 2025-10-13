@@ -28,18 +28,12 @@ Now, I focus on turning complex challenges into elegant, data-driven solutions.
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=github_dark" alt="Ayad Stats" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3yad&theme=github_dark" alt="Ayad's Streak" width="400"/>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=github_dark" height="180" alt="Ayad Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=github_dark&langs_count=8" height="180" alt="Most Used Languages" />
+</p>
 
 ---
 
