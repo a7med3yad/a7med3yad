@@ -28,7 +28,6 @@ Now, I focus on turning complex challenges into elegant, data-driven solutions.
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=github_dark" height="180" alt="Ayad Stats" />
