@@ -31,10 +31,15 @@ Now, I focus on turning complex challenges into elegant, data-driven solutions.
 
 <table align="center">
   <tr>
-    <td><img align="center" src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=github_dark" alt="Ayad Stats" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3yad&theme=github_dark" alt="Ayad's Streak" /></td>
+    <td>
+      <img src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=github_dark" alt="Ayad Stats" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3yad&theme=github_dark" alt="Ayad's Streak" width="400"/>
+    </td>
   </tr>
 </table>
+
 
 ---
 
