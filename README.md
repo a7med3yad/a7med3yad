@@ -14,16 +14,13 @@ The focus now is on connecting intelligence with impact.
 
 ---
 
-<table>
+<table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-    </td>
+    <td><img align="center" src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=github_dark" alt="Ayad" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3yad&theme=github_dark" alt="Ayad's Streak" /></td>
   </tr>
 </table>
+
 
 ### Tech Stack
 
