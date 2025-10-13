@@ -31,7 +31,7 @@ Now, I focus on turning complex challenges into elegant, data-driven solutions.
 
 <p align="center">
   <img src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=github_dark" height="180" alt="Ayad Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=github_dark&langs_count=10" height="180" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=github_dark&langs_count=8" height="180" alt="Most Used Languages" />
 </p>
 
 ---
