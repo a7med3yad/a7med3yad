@@ -5,10 +5,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=a7med3yad&label=Profile%20views&color=red&style=flat-square" alt="a7med3yad" />
+  <a href="https://user-badge.committers.top/egypt/a7med3yad">
+    <img src="https://user-badge.committers.top/egypt/a7med3yad.svg" alt="committers.top badge" />
+  </a>
 </p>
-<p align="center">
-[![committers.top badge](https://user-badge.committers.top/egypt/a7med3yad.svg)](https://user-badge.committers.top/egypt/a7med3yad)
-</p>
+
 ---
 
 ### 🧠 About Me
