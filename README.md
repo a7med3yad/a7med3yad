@@ -1,5 +1,6 @@
 <!-- 💫 Animated Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Data+Scientist;Building+Intelligent+Systems+that+Power+Real-World+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Data+Scientist;+Building+Intelligent+Systems+that+Power+Real-World+Innovation)](https://git.io/typing-svg)
+
 
 
 <h2 align="center">👋 Hi there, I'm Ahmed Ayad</h2>
