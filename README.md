@@ -11,9 +11,7 @@
 
 ### 🧠 About Me
 
-I’m passionate about designing backend systems that scale, extracting insights from data, and building solutions that bridge intelligence with real-world impact.  
-My journey started with curiosity — *why do some systems scale while others fail?* — and it led me into distributed systems, AI, and software engineering.  
-Now, I focus on turning complex challenges into elegant, data-driven solutions.
+I’m passionate about designing scalable backend systems, uncovering insights from data, and building intelligent solutions that drive real-world impact. My journey began with a simple curiosity — why do some systems scale effortlessly while others struggle? — a question that led me deep into the worlds of distributed systems, artificial intelligence, and software engineering. Today, I focus on transforming complex technical challenges into elegant, data-driven architectures that deliver both performance and purpose.
 
 ---
 
