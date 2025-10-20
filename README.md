@@ -30,7 +30,7 @@ I’m passionate about designing scalable backend systems, uncovering insights f
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=github_dark" height="180" alt="Ayad Stats" />
+  <img src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=github_dark" height="190" alt="Ayad Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=github_dark&langs_count=8" height="180" alt="Most Used Languages" />
 </p>
 
