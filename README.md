@@ -1,8 +1,6 @@
 <!-- 💫 Animated Typing Intro -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Data+Scientist;+Building+Intelligent+Systems+that+Power+Real-World+Innovation)](https://git.io/typing-svg)
 
-
-
 <h2 align="center">👋 Hi there, I'm Ahmed Ayad</h2>
 
 <p align="center">
@@ -73,9 +71,7 @@ I’m passionate about designing scalable backend systems, uncovering insights f
 ---
 
 ### 🧑‍💻 Portfolio
-Check out my projects and experiments on my personal website:  
-➡️ **[ahmed3yad.netlify.app](https://ahmed3yad.netlify.app/)**  
-Featuring work in backend systems, AI, and data visualization.
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://ahmed3yad.netlify.app/)
 
 ---
 
@@ -92,5 +88,5 @@ Featuring work in backend systems, AI, and data visualization.
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat&logo=gmail&logoColor=EA4335)](mailto:ahmed.ibrahim01974@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ahmed.ibrahim01974@gmail.com)
