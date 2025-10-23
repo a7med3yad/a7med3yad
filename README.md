@@ -71,7 +71,7 @@ I’m passionate about designing scalable backend systems, uncovering insights f
 ---
 
 ### 🧑‍💻 Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://ahmed3yad.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://a7med3yad.netlify.app/)
 
 ---
 
