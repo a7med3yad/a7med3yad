@@ -1,7 +1,5 @@
-<!-- 💫 Animated Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Data+Scientist;+Building+Intelligent+Systems+that+Power+Real-World+Innovation)](https://git.io/typing-svg)
-
-<h2 align="center">Ahmed Ayad</h2>
+<h1 align="center">Ahmed Ayad</h1>
+<h3 align="center">Software Engineer & Data Scientist — Designing Scalable Systems that Think</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=a7med3yad&label=Profile%20views&color=grey&style=flat-square" alt="a7med3yad" />
@@ -11,8 +9,9 @@
 
 ### About Me
 
-I'm a software engineer and data scientist specialized in designing scalable backend systems and intelligent, data-driven solutions.  
-My work bridges distributed systems, artificial intelligence, and modern software architecture — transforming complex technical challenges into systems that deliver performance, efficiency, and impact.
+I’m a backend-focused software engineer and data scientist who enjoys building systems that scale, learn, and deliver value.  
+My work sits at the intersection of distributed architecture, applied machine learning, and intelligent automation — transforming raw data and ideas into products that think.  
+I believe great engineering is not just about code; it’s about clarity, precision, and purpose.
 
 ---
 
@@ -21,8 +20,8 @@ My work bridges distributed systems, artificial intelligence, and modern softwar
 - Backend Developer & Data Scientist (.NET, Python, SQL)  
 - Experienced in AI, ML, and distributed systems  
 - Competitive Programmer on [Codeforces](https://codeforces.com/profile/Abou_3yad)  
-- Exploring cloud-native architectures and MLOps  
-- Focused on building robust and scalable systems
+- Exploring Cloud, MLOps, and Systems Design  
+- Driven by performance, simplicity, and scalability
 
 ---
 
