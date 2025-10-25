@@ -1,29 +1,28 @@
 <!-- 💫 Animated Typing Intro -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Data+Scientist;+Building+Intelligent+Systems+that+Power+Real-World+Innovation)](https://git.io/typing-svg)
 
-<h2 align="center">Hi, I'm Ahmed Ayad</h2>
+<h2 align="center">Ahmed Ayad</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a7med3yad&label=Profile%20views&color=red&style=flat-square" alt="a7med3yad" />
+  <img src="https://komarev.com/ghpvc/?username=a7med3yad&label=Profile%20views&color=grey&style=flat-square" alt="a7med3yad" />
 </p>
 
 ---
 
 ### About Me
 
-I'm a software engineer and data scientist focused on designing scalable backend systems and intelligent, data-driven solutions that create measurable impact.  
-My journey began with a simple curiosity — why do some systems scale effortlessly while others struggle? That curiosity led me deep into distributed systems, artificial intelligence, and backend architecture.  
-Today, I specialize in transforming complex technical problems into elegant systems that combine performance, intelligence, and purpose.
+I'm a software engineer and data scientist specialized in designing scalable backend systems and intelligent, data-driven solutions.  
+My work bridges distributed systems, artificial intelligence, and modern software architecture — transforming complex technical challenges into systems that deliver performance, efficiency, and impact.
 
 ---
 
-### Key Highlights
+### Highlights
 
-- Backend Developer & Data Scientist (.NET, Python, SQL)
-- Strong experience in AI, ML, and distributed systems
-- Competitive Programmer on [Codeforces](https://codeforces.com/profile/Abou_3yad)
-- Exploring cloud-native architectures and MLOps
-- Committed to building robust, scalable, and impactful software
+- Backend Developer & Data Scientist (.NET, Python, SQL)  
+- Experienced in AI, ML, and distributed systems  
+- Competitive Programmer on [Codeforces](https://codeforces.com/profile/Abou_3yad)  
+- Exploring cloud-native architectures and MLOps  
+- Focused on building robust and scalable systems
 
 ---
 
@@ -39,55 +38,55 @@ Today, I specialize in transforming complex technical problems into elegant syst
 ### Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=FFD43B)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=flat&logo=csharp&logoColor=239120)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat&logo=openjdk&logoColor=F89820)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=flat&logo=dart&logoColor=0175C2)
-![R](https://img.shields.io/badge/R-0d1117?style=flat&logo=r&logoColor=276DC3)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat&logo=gnu-bash&logoColor=4EAA25)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=gray)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=flat&logo=csharp&logoColor=gray)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=gray)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat&logo=openjdk&logoColor=gray)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=gray)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=flat&logo=dart&logoColor=gray)
+![R](https://img.shields.io/badge/R-0d1117?style=flat&logo=r&logoColor=gray)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat&logo=gnu-bash&logoColor=gray)
 
 **Frameworks & Tools**  
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat&logo=dotnet&logoColor=5C2D91)
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat&logo=flutter&logoColor=42A5F5)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat&logo=kubernetes&logoColor=326CE5)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazon-aws&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=F05032)
-![jQuery](https://img.shields.io/badge/jQuery-0d1117?style=flat&logo=jquery&logoColor=0769AD)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat&logo=dotnet&logoColor=gray)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat&logo=flutter&logoColor=gray)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=gray)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat&logo=kubernetes&logoColor=gray)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazon-aws&logoColor=gray)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=gray)
+![jQuery](https://img.shields.io/badge/jQuery-0d1117?style=flat&logo=jquery&logoColor=gray)
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=336791)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-0d1117?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat&logo=mysql&logoColor=gray)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=gray)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0d1117?style=flat&logo=microsoftsqlserver&logoColor=gray)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat&logo=mongodb&logoColor=gray)
 
 **Data Science & ML**  
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=150458)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat&logo=scikitlearn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=EE4C2C)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=gray)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=gray)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat&logo=scikitlearn&logoColor=gray)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat&logo=tensorflow&logoColor=gray)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=gray)
 
 ---
 
 ### Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://a7med3yad.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=gray)](https://a7med3yad.netlify.app/)
 
 ---
 
 ### Contribution Graph
-![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=a7med3yad&bg_color=0d1117&color=999999&line=3572A5&point=50fa7b&area=true&hide_border=true)
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=a7med3yad&bg_color=0d1117&color=666666&line=888888&point=AAAAAA&area=true&hide_border=true)
 
 ---
 
 ### Competitive Programming
-[![Codeforces](https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abou_3yad)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/a7med3yad/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=gray)](https://codeforces.com/profile/Abou_3yad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=gray)](https://leetcode.com/u/a7med3yad/)
 
 ---
 
 ### Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ahmed.ibrahim01974@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=gray)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=gray)](mailto:ahmed.ibrahim01974@gmail.com)
