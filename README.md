@@ -28,8 +28,8 @@ I believe great engineering is not just about code; it’s about clarity, precis
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=github_dark" height="190" alt="Ayad Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=github_dark&langs_count=8" height="190" alt="Most Used Languages" />
+  <img src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=transparent" height="190" alt="Ayad Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=transparent&langs_count=8" height="190" alt="Most Used Languages" />
 </p>
 
 ---
