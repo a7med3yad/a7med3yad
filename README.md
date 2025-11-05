@@ -32,9 +32,6 @@ I believe great engineering is not just about code; it’s about clarity, precis
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=transparent&langs_count=8" height="190" alt="Most Used Languages" />
 </p>
 
-
----
-<img src="https://camo.githubusercontent.com/5a96f8137c528fd696ae9a92bc1a358c7f603e1b2bb18192457d8f6ce292d6a9/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d4d415269616d2d32303032267468656d653d64726163756c61" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a7med3yad&amp;theme=dracula" style="max-width: 100%;">
 ---
 
 ### Tech Stack
