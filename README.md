@@ -29,8 +29,40 @@ I believe great engineering is not just about code; it’s about clarity, precis
 
 <p align="center">
   <img src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=transparent" height="190" alt="Ayad Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=transparent&langs_count=8" height="190" alt="Most Used Languages" />
 </p>
+
+---
+
+### Most Used Languages (by Number of Repositories)
+
+> This small script uses the GitHub API to count how many repositories use each main language,  
+> then ranks them from most used → least used **by repo count** (not by bytes of code).
+
+```js
+async function getLangStats(username) {
+  const repos = await fetch(`https://api.github.com/users/${username}/repos`)
+    .then(res => res.json());
+
+  const langCount = {};
+
+  for (const repo of repos) {
+    if (repo.language) {
+      langCount[repo.language] = (langCount[repo.language] || 0) + 1;
+    }
+  }
+
+  const sorted = Object.entries(langCount)
+    .sort((a, b) => b[1] - a[1]);
+
+  console.log("Languages ranked by number of repos:\n");
+  sorted.forEach(([lang, count]) => {
+    console.log(`${lang}: ${count} repos`);
+  });
+}
+
+getLangStats("a7med3yad");
+
+
 
 ---
 
