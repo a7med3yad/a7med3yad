@@ -34,8 +34,6 @@ I believe great engineering is not just about code; it's about clarity, precisio
 ---
 
 
----
-
 ### Tech Stack
 
 **Languages**  
