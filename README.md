@@ -9,9 +9,9 @@
 
 ### About Me
 
-I’m a backend-focused software engineer and data scientist who enjoys building systems that scale, learn, and deliver value.  
+I'm a backend-focused software engineer and data scientist who enjoys building systems that scale, learn, and deliver value.  
 My work sits at the intersection of distributed architecture, applied machine learning, and intelligent automation — transforming raw data and ideas into products that think.  
-I believe great engineering is not just about code; it’s about clarity, precision, and purpose.
+I believe great engineering is not just about code; it's about clarity, precision, and purpose.
 
 ---
 
@@ -35,9 +35,8 @@ I believe great engineering is not just about code; it’s about clarity, precis
 
 ### Most Used Languages (by Number of Repositories)
 
-> This small script uses the GitHub API to count how many repositories use each main language,  
-> then ranks them from most used → least used **by repo count** (not by bytes of code).
-
+> This script uses the GitHub API to count how many repositories use each language,  
+> then ranks them automatically from most used → least used (based on number of projects, not code size).
 ```js
 async function getLangStats(username) {
   const repos = await fetch(`https://api.github.com/users/${username}/repos`)
@@ -61,44 +60,25 @@ async function getLangStats(username) {
 }
 
 getLangStats("a7med3yad");
+```
 
-
+> Run this in Node.js or browser console to see your live ranking.
 
 ---
 
 ### Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=gray)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=gray)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=gray)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=gray)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=gray)
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=gray)
-![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=gray)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=gray)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=gray) ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=gray) ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=gray) ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=gray) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=gray) ![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=gray) ![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=gray) ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=gray)
 
 **Frameworks & Tools**  
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=gray)
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=gray)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=gray)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=gray)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=gray)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=gray)
-![jQuery](https://img.shields.io/badge/jQuery-0d1117?style=for-the-badge&logo=jquery&logoColor=gray)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=gray) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=gray) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=gray) ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=gray) ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=gray) ![jQuery](https://img.shields.io/badge/jQuery-0d1117?style=for-the-badge&logo=jquery&logoColor=gray)
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=gray)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=gray)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=gray)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=gray)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=gray) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=gray) ![SQL Server](https://img.shields.io/badge/SQL%20Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=gray) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=gray)
 
 **Data Science & ML**  
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=gray)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=gray)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=gray)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=gray)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=gray)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=gray) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=gray) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=gray) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=gray) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=gray)
 
 ---
 
@@ -113,11 +93,9 @@ getLangStats("a7med3yad");
 ---
 
 ### Competitive Programming
-[![Codeforces](https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=gray)](https://codeforces.com/profile/Abou_3yad)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=gray)](https://leetcode.com/u/a7med3yad/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=gray)](https://codeforces.com/profile/Abou_3yad) [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=gray)](https://leetcode.com/u/a7med3yad/)
 
 ---
 
 ### Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=gray)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=gray)](mailto:ahmed.ibrahim01974@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=gray)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/) [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=gray)](mailto:ahmed.ibrahim01974@gmail.com)
