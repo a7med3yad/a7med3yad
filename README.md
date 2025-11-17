@@ -33,36 +33,6 @@ I believe great engineering is not just about code; it's about clarity, precisio
 
 ---
 
-### Most Used Languages (by Number of Repositories)
-
-> This script uses the GitHub API to count how many repositories use each language,  
-> then ranks them automatically from most used → least used (based on number of projects, not code size).
-```js
-async function getLangStats(username) {
-  const repos = await fetch(`https://api.github.com/users/${username}/repos`)
-    .then(res => res.json());
-
-  const langCount = {};
-
-  for (const repo of repos) {
-    if (repo.language) {
-      langCount[repo.language] = (langCount[repo.language] || 0) + 1;
-    }
-  }
-
-  const sorted = Object.entries(langCount)
-    .sort((a, b) => b[1] - a[1]);
-
-  console.log("Languages ranked by number of repos:\n");
-  sorted.forEach(([lang, count]) => {
-    console.log(`${lang}: ${count} repos`);
-  });
-}
-
-getLangStats("a7med3yad");
-```
-
-> Run this in Node.js or browser console to see your live ranking.
 
 ---
 
