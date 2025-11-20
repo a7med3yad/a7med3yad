@@ -33,20 +33,38 @@ I believe great engineering is not just about code; it's about clarity, precisio
 
 ---
 
-
 ### Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=gray) ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=gray) ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=gray) ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=gray) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=gray) ![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=gray) ![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=gray) ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=gray)
-
 **Frameworks & Tools**  
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=gray) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=gray) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=gray) ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=gray) ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=gray) ![jQuery](https://img.shields.io/badge/jQuery-0d1117?style=for-the-badge&logo=jquery&logoColor=gray)
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=gray) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=gray) ![SQL Server](https://img.shields.io/badge/SQL%20Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=gray) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=gray)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-0d1117?style=for-the-badge&logo=dotnet&logoColor=gray)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=gray)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=gray)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=gray)
 
-**Data Science & ML**  
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=gray) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=gray) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=gray) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=gray) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=gray)
+![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD%20Pipelines-0d1117?style=for-the-badge&logo=githubactions&logoColor=gray)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=gray)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=gray)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=gray)
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=gray)
+![EC2](https://img.shields.io/badge/AWS%20EC2-0d1117?style=for-the-badge&logo=amazonaws&logoColor=gray)
+![RDS](https://img.shields.io/badge/AWS%20RDS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=gray)
+![S3](https://img.shields.io/badge/AWS%20S3-0d1117?style=for-the-badge&logo=amazonaws&logoColor=gray)
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=gray)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=gray)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=gray)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=gray)
+
+![Python ML Stack](https://img.shields.io/badge/Python%20ML%20Stack-0d1117?style=for-the-badge&logo=python&logoColor=gray)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=gray)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=gray)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=gray)
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=gray)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=gray)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=gray)
 
 ---
 
