@@ -29,6 +29,7 @@ I believe great engineering is not just about code; it's about clarity, precisio
 
 <p align="center">
   <img src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=transparent" height="190" alt="Ayad Stats" />
+  <img src="https://readmestats.999857.xyz/api/top-langs?username=a7med3yad&show_icons=true&locale=en&layout=compact&theme=transparent" height="190" alt="Most Used Languages" />
 </p>
 
 ---
