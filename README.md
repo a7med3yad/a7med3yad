@@ -1,88 +1,135 @@
-<h1 align="center">Ahmed Ayad</h1>
-<h3 align="center">Software Engineer & Data Scientist | Backend (.NET / Python) | Cloud (AWS) | Competitive Programming </h3>
+# Ahmed Ayad
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a7med3yad&label=Profile%20views&color=grey&style=flat-square" alt="a7med3yad" />
+**Software Engineer & Data Scientist**  
+Backend Development · Distributed Systems · Machine Learning Engineering
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://a7med3yad.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.ibrahim01974@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abou_3yad)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=a7med3yad&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
-### About Me
+## About
 
-I'm a backend-focused software engineer and data scientist who enjoys building systems that scale, learn, and deliver value.  
-My work sits at the intersection of distributed architecture, applied machine learning, and intelligent automation — transforming raw data and ideas into products that think.  
-I believe great engineering is not just about code; it's about clarity, precision, and purpose.
+I build scalable backend systems and production-ready machine learning solutions. My engineering philosophy centers on writing clean, maintainable code that solves real problems — whether that's designing distributed architectures, optimizing data pipelines, or deploying intelligent services to the cloud.
 
----
+I specialize in the full stack of modern backend development: from RESTful API design and database optimization to containerization and CI/CD automation. My data science work focuses on applied ML, bridging the gap between research and production through robust engineering practices.
 
-### Highlights
-
-- Backend Developer & Data Scientist (.NET, Python, SQL)  
-- Experienced in AI, ML, and distributed systems  
-- Competitive Programmer on [Codeforces](https://codeforces.com/profile/Abou_3yad)  
-- Exploring Cloud, MLOps, and Systems Design  
-- Driven by performance, simplicity, and scalability
+Beyond professional development, I maintain sharp problem-solving skills through competitive programming, which has strengthened my approach to algorithmic thinking and system design.
 
 ---
 
-### GitHub Stats
+## Technical Expertise
+
+**Backend Development & APIs**
+- ASP.NET Core, ASP.NET MVC
+- Entity Framework Core
+- RESTful API Design & Implementation
+- Microservices Architecture
+
+**Cloud & DevOps**
+- AWS (EC2, RDS, S3, Lambda)
+- Docker, Kubernetes
+- CI/CD Pipelines (GitHub Actions)
+- Infrastructure as Code
+
+**Databases**
+- SQL Server, PostgreSQL, MySQL
+- MongoDB
+- Query Optimization & Indexing
+- Database Design & Schema Modeling
+
+**Data Science & Machine Learning**
+- Python ML Stack (Pandas, NumPy, Scikit-learn)
+- Feature Engineering & Model Development
+- Statistical Analysis & Experimentation
+- ML Pipeline Development
+
+**Systems & Tools**
+- Git & Version Control
+- Linux/Unix Systems
+- Bash Scripting & Automation
+- System Design & Architecture
+
+**Problem Solving**
+- Competitive Programming ([Codeforces Profile](https://codeforces.com/profile/Abou_3yad))
+- Data Structures & Algorithms
+- Complexity Analysis & Optimization
+- [LeetCode Practice](https://leetcode.com/u/a7med3yad/)
+
+---
+
+## Tech Stack
+
+**Languages**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Backend & Frameworks**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Databases**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Data Science & ML**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Tools & Systems**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=transparent" height="190" alt="Ayad Stats" />
-  <img src="https://readmestats.999857.xyz/api/top-langs?username=a7med3yad&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=10" height="190" alt="Most Used Languages" />
+  <img src="https://readmestats.999857.xyz/api?username=a7med3yad&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=0e75b6&text_color=333&icon_color=0e75b6" height="180" alt="GitHub Stats" />
+  <img src="https://readmestats.999857.xyz/api/top-langs?username=a7med3yad&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=0e75b6&text_color=333" height="180" alt="Top Languages" />
 </p>
 
 ---
 
-### Tech Stack
+## Activity
 
-**Frameworks & Tools**  
-
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-0d1117?style=for-the-badge&logo=dotnet&logoColor=gray)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=gray)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=gray)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=gray)
-
-![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD%20Pipelines-0d1117?style=for-the-badge&logo=githubactions&logoColor=gray)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=gray)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=gray)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=gray)
-
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=gray)
-![EC2](https://img.shields.io/badge/AWS%20EC2-0d1117?style=for-the-badge&logo=amazonaws&logoColor=gray)
-![RDS](https://img.shields.io/badge/AWS%20RDS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=gray)
-![S3](https://img.shields.io/badge/AWS%20S3-0d1117?style=for-the-badge&logo=amazonaws&logoColor=gray)
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=gray)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=gray)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=gray)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=gray)
-
-![Python ML Stack](https://img.shields.io/badge/Python%20ML%20Stack-0d1117?style=for-the-badge&logo=python&logoColor=gray)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=gray)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=gray)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=gray)
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=gray)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=gray)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=gray)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=a7med3yad&bg_color=ffffff&color=0e75b6&line=0e75b6&point=333333&area=true&hide_border=true&theme=minimal)
 
 ---
 
-### Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=gray)](https://a7med3yad.netlify.app/)
+## Contact
+
+I'm open to discussing backend architecture, machine learning engineering, and competitive programming challenges.
+
+**Reach out:**  
+📧 [ahmed.ibrahim01974@gmail.com](mailto:ahmed.ibrahim01974@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)  
+🌐 [Portfolio](https://a7med3yad.netlify.app/)
 
 ---
 
-### Contribution Graph
-![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=a7med3yad&bg_color=0d1117&color=666666&line=888888&point=AAAAAA&area=true&hide_border=true)
-
----
-
-### Competitive Programming
-[![Codeforces](https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=gray)](https://codeforces.com/profile/Abou_3yad) [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=gray)](https://leetcode.com/u/a7med3yad/)
-
----
-
-### Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=gray)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/) [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=gray)](mailto:ahmed.ibrahim01974@gmail.com)
+<p align="center">
+  <i>Building systems that scale. Writing code that matters.</i>
+</p>
