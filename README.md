@@ -113,12 +113,6 @@ Beyond professional development, I maintain sharp problem-solving skills through
 
 ---
 
-## Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=a7med3yad&bg_color=ffffff&color=0e75b6&line=0e75b6&point=333333&area=true&hide_border=true&theme=minimal)
-
----
-
 ## Contact
 
 I'm open to discussing backend architecture, machine learning engineering, and competitive programming challenges.
