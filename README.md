@@ -1,6 +1,6 @@
 # Ahmed Ayad
 
-**Software Engineer & Data Scientist**  
+**Software Engineer & Cloud Engineer**  
 Backend Development · Distributed Systems · Machine Learning Engineering
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://a7med3yad.netlify.app/)
