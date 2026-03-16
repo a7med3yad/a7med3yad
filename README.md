@@ -14,6 +14,8 @@ Backend Development · Distributed Systems · Machine Learning Engineering
 
 ---
 
+
+
 ## About
 
 I build scalable backend systems and production-ready machine learning solutions. My engineering philosophy centers on writing clean, maintainable code that solves real problems — whether that's designing distributed architectures, optimizing data pipelines, or deploying intelligent services to the cloud.
