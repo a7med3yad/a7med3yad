@@ -146,20 +146,6 @@ Implementing production-hardened security: **JWT authentication, OAuth2 (Google/
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&theme=github_dark&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=a7med3yad&layout=compact&theme=github_dark&hide_border=true&title_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="170" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=a7med3yad&theme=github-dark-blue&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" height="170" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## Certifications & Achievements
 
