@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://ahmedayad.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://a7med3ayad.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.ibrahim01974@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abou_3yad)
@@ -15,7 +15,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=a7med3yad&label=Profile+Views&color=0e75b6&style=flat-square)
-
 </div>
 
 ---
@@ -183,7 +182,7 @@ I'm open to backend engineering, cloud engineering, and DevOps opportunities —
 
  [ahmed.ibrahim01974@gmail.com](mailto:ahmed.ibrahim01974@gmail.com)
  [linkedin.com/in/ahmed-ayad-1000b52ab](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
- [ahmedayad.netlify.app](https://ahmedayad.netlify.app/)
+ [ahmedayad.netlify.app](https://a7med3ayad.netlify.app/)
  [github.com/a7med3yad](https://github.com/a7med3yad)
 
 ---
