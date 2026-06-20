@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=200&section=header&text=Ahmed%20Ayad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20AWS%20Certified&descAlignY=58&descSize=18&descColor=7ea8c9&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070a0e,100:0d1117&height=200&section=header&text=AHMED%20AYAD&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20Certified&descAlignY=58&descSize=16&descColor=8b96a5&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Backend+Engineer+%E2%80%94+ASP.NET+Core+%7C+Clean+Architecture;Cloud+Engineer+%E2%80%94+AWS+%7C+Terraform+%7C+Docker;DevOps+%E2%80%94+CI%2FCD+%7C+GitHub+Actions+%7C+Linux;Building+systems+that+scale.+Writing+code+that+matters.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%E2%80%94+ASP.NET+Core+%7C+Clean+Architecture;Cloud+Engineer+%E2%80%94+AWS+%7C+Terraform+%7C+Docker;DevOps+%E2%80%94+CI%2FCD+%7C+GitHub+Actions+%7C+Linux;Building+systems+that+scale.+Writing+code+that+matters.)](https://git.io/typing-svg)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://a7med3yaad.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.ibrahim01974@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abou_3yad)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/a7med3yad/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ahmed.ibrahim01974@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/Abou_3yad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/a7med3yad/)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=a7med3yad&label=Profile+Views&color=0e75b6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=a7med3yad&label=Profile+Views&color=0d1117&style=flat-square)
 </div>
 
 ---
@@ -37,51 +37,51 @@ My engineering approach is grounded in **Clean Architecture**, **infrastructure 
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=c-sharp&logoColor=239120)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4479A1)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
 
 **Backend**
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 ![REST API](https://img.shields.io/badge/RESTful_API-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0d1117?style=for-the-badge&logo=buffer&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0d1117?style=for-the-badge&logo=buffer&logoColor=58a6ff)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-0d1117?style=for-the-badge&logo=auth0&logoColor=EB5424)
 
 **Cloud & Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=844FBA)
+![EC2](https://img.shields.io/badge/EC2-0d1117?style=for-the-badge&logo=amazon-ec2&logoColor=FF9900)
+![S3](https://img.shields.io/badge/S3-0d1117?style=for-the-badge&logo=amazon-s3&logoColor=569A31)
+![RDS](https://img.shields.io/badge/RDS-0d1117?style=for-the-badge&logo=amazon-rds&logoColor=527FFF)
+![IAM](https://img.shields.io/badge/IAM-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=DD344C)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-0d1117?style=for-the-badge&logo=amazon-cloudwatch&logoColor=FF4F8B)
+![Cognito](https://img.shields.io/badge/Cognito-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=DD344C)
 
 **DevOps & CI/CD**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=github-actions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 **Databases**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
 
 **Frontend & Tools**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Swagger](https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ---
 
@@ -145,12 +145,11 @@ Implementing production-hardened security: **JWT authentication, OAuth2 (Google/
 
 ---
 
-
 ## Certifications & Achievements
 
 | Certification | Issuer | Year |
 |---|---|---|
-|  AWS Certified Cloud Practitioner | Amazon Web Services | 2026 |
+| AWS Certified Cloud Practitioner | Amazon Web Services | 2026 |
 
 - Mentored **50+ engineering students** across structured multi-cohort backend and cloud programmes
 - Reviewed **100+ code submissions**, improving API design quality and reducing recurring error patterns by 40%
@@ -180,15 +179,15 @@ Implementing production-hardened security: **JWT authentication, OAuth2 (Google/
 
 I'm open to backend engineering, cloud engineering, and DevOps opportunities — internships, remote roles, and freelance engagements.
 
- [ahmed.ibrahim01974@gmail.com](mailto:ahmed.ibrahim01974@gmail.com)
- [linkedin.com/in/ahmed-ayad-1000b52ab](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
- [ahmedayad.netlify.app](https://a7med3yaad.netlify.app/)
- [github.com/a7med3yad](https://github.com/a7med3yad)
+[ahmed.ibrahim01974@gmail.com](mailto:ahmed.ibrahim01974@gmail.com)
+[linkedin.com/in/ahmed-ayad-1000b52ab](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
+[ahmedayad.netlify.app](https://a7med3yaad.netlify.app/)
+[github.com/a7med3yad](https://github.com/a7med3yad)
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:070a0e&height=100&section=footer" width="100%" />
 
 </div>
