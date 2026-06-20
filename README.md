@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070a0e,100:0d1117&height=200&section=header&text=AHMED%20AYAD&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20Certified&descAlignY=58&descSize=16&descColor=8b96a5&animation=fadeIn" width="100%" />
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%E2%80%94+ASP.NET+Core+%7C+Clean+Architecture;Cloud+Engineer+%E2%80%94+AWS+%7C+Terraform+%7C+Docker;DevOps+%E2%80%94+CI%2FCD+%7C+GitHub+Actions+%7C+Linux;Building+systems+that+scale.+Writing+code+that+matters.)](https://git.io/typing-svg)
 
