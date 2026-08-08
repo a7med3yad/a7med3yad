@@ -171,8 +171,6 @@ Implementing production-hardened security: **JWT authentication, OAuth2 (Google/
 
 ---
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:070a0e&height=100&section=footer" width="100%" />
