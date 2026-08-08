@@ -2,9 +2,6 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%E2%80%94+ASP.NET+Core+%7C+Clean+Architecture;Cloud+Engineer+%E2%80%94+AWS+%7C+Terraform+%7C+Docker;DevOps+%E2%80%94+CI%2FCD+%7C+GitHub+Actions+%7C+Linux;Building+systems+that+scale.+Writing+code+that+matters.)](https://git.io/typing-svg)
-
-<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://a7med3yaad.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
@@ -12,7 +9,6 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/Abou_3yad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/a7med3yad/)
 
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=a7med3yad&label=Profile+Views&color=0d1117&style=flat-square)
 </div>
