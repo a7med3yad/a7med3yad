@@ -171,15 +171,6 @@ Implementing production-hardened security: **JWT authentication, OAuth2 (Google/
 
 ---
 
-## Let's Connect
-
-I'm open to backend engineering, cloud engineering, and DevOps opportunities — internships, remote roles, and freelance engagements.
-
-[ahmed.ibrahim01974@gmail.com](mailto:ahmed.ibrahim01974@gmail.com)
-[linkedin.com/in/ahmed-ayad-1000b52ab](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
-[ahmedayad.netlify.app](https://a7med3yaad.netlify.app/)
-[github.com/a7med3yad](https://github.com/a7med3yad)
-
 ---
 
 <div align="center">
