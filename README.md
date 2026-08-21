@@ -4,7 +4,7 @@
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/a7med3yad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ahmed-ayad-1000b52ab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ahmedabouayad/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ahmed.ibrahim01974@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/Abou_3yad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/a7med3yad/)
@@ -17,14 +17,14 @@
 
 ## About Me
 
-AWS-certified Software Engineer and Cloud Engineer based in Alexandria, Egypt, with 3 years of hands-on experience building production-grade backend systems, provisioning cloud infrastructure, and shipping automated CI/CD pipelines.
+AWS-certified Software Engineer and Cloud Engineer based in Cairo, Egypt, with internship and freelance experience building production-grade backend systems, provisioning cloud infrastructure, and shipping automated CI/CD pipelines.
 
 My engineering approach is grounded in **Clean Architecture**, **infrastructure as code**, and **DevOps discipline** — I care about systems that are secure, maintainable, and built to scale. Whether designing a multi-domain REST API, codifying AWS environments in Terraform, or hardening backend security with JWT and RBAC, I focus on engineering quality over shortcuts.
 
-- Currently completing internships at **DEPI** (Backend & DevOps) and **NTI** (Cloud Engineering)
-- Building production systems with **ASP.NET Core**, **AWS**, and **Terraform**
+- Completed backend/DevOps internship at **DEPI** and cloud engineering internship at **NTI** (2025)
+- Building production systems with **ASP.NET Core**, **AWS**, and **Terraform** — most recently a 15-module HRMS backend with 384 automated tests
 - Deepening expertise in **distributed systems**, **cloud-native architecture**, and **system design**
-- Open to backend engineering, cloud engineering, and DevOps opportunities — remote or hybrid
+- Open to backend engineering, cloud engineering, and DevOps internships or contract roles (available on a contract basis until completing military service) — remote or hybrid
 - B.Sc. Computer & Data Science, Alexandria University (Expected May 2027)
 
 ---
@@ -84,7 +84,7 @@ My engineering approach is grounded in **Clean Architecture**, **infrastructure 
 ## Engineering Focus Areas
 
 ### Backend Engineering
-Designing clean, scalable REST APIs with **ASP.NET Core** and **Entity Framework Core** using Clean Architecture and SOLID principles. I've shipped 40+ endpoints across multi-domain production systems, enforced JWT/RBAC security, and optimized SQL Server schemas for high-throughput read paths.
+Designing clean, scalable REST APIs with **ASP.NET Core** and **Entity Framework Core** using Clean Architecture and SOLID principles. Shipped 40+ endpoints across multi-domain systems, enforced JWT/RBAC security, and optimized SQL Server schemas for high-throughput read paths.
 
 ### Cloud Engineering — AWS
 Architecting production-grade AWS environments from the network layer up: **VPC, subnets, route tables, security groups, IAM, EC2, RDS, S3, CloudWatch, Cognito**. Committed to the AWS Well-Architected Framework for every deployment.
@@ -102,6 +102,19 @@ Implementing production-hardened security: **JWT authentication, OAuth2 (Google/
 
 ## Featured Projects
 
+### HRMS — Enterprise HR Management Backend (Control Union HRMS)
+> 15-module Clean Architecture backend covering the full employee lifecycle
+
+- **Architecture:** CQRS with MediatR, Repository & Unit of Work, Specification, Domain Events, Transactional Outbox — 43 entities across 13 EF Core migrations
+- **Domain logic:** 12-step attendance validation pipeline (device registration, GPS geofencing, mock-location/emulator detection) using the Strategy pattern for pluggable fraud checks
+- **Payroll:** progressive income-tax calculation and loan installment deduction as pure, independently unit-tested domain calculators
+- **Quality:** 384 automated unit and integration tests, all passing
+- **Deployment:** AWS Lightsail
+
+`C#` `ASP.NET Core` `EF Core` `SQL Server` `CQRS` `AWS Lightsail`
+
+---
+
 ### BlindIdea — Anonymous Team Collaboration Platform
 > Full-stack platform for anonymous idea submission with permanent author concealment
 
@@ -115,29 +128,16 @@ Implementing production-hardened security: **JWT authentication, OAuth2 (Google/
 
 ---
 
-### Cartify — Multi-Vendor E-Commerce Backend
-> Production-grade multi-vendor commerce backend with a full AWS deployment
+### LMS — Role-Based Learning Management Backend
+> Clean Architecture backend for course management, assignments, exams, and enrollments
 
-- **Architecture:** 5 business domains, 40+ RESTful endpoints, Clean Architecture, 12-table SQL Server schema
-- **Quality:** 35% reduction in integration bugs via repository pattern and dependency injection
-- **DevOps:** Zero manual release steps with EC2-based GitHub Actions deployment
+- **Architecture:** Domain / Application / Infrastructure / API layers across Admin, Instructor, and Student roles
+- **Auth:** email OTP verification, JWT with refresh tokens, Google/Facebook OAuth, password reset
+- **Domain:** 10+ entities behind repository and unit-of-work abstractions
 
-[GitHub](https://github.com/a7med3yad) · [Live API](https://cartify.runasp.net/swagger)
+[GitHub](https://github.com/a7med3yad/LMS)
 
-`C#` `ASP.NET Core` `SQL Server` `Entity Framework Core` `AWS EC2` `GitHub Actions`
-
----
-
-### FoodHub — Multi-Vendor Food Ordering Platform
-> Scalable food ordering API with centralized exception handling and Cognito-based auth
-
-- **Architecture:** 25+ endpoints across 4 domains; 4 Clean Architecture layers
-- **Auth:** AWS Cognito RBAC across 3 user roles
-- **Reliability:** Centralized exception-handling middleware standardizing all API error responses
-
-[GitHub](https://github.com/a7med3yad) · [Live API](https://food-hub-api.runasp.net/swagger)
-
-`C#` `ASP.NET Core` `AWS Cognito` `SQL Server` `Clean Architecture`
+`C#` `ASP.NET Core` `EF Core` `SQL Server`
 
 ---
 
@@ -145,13 +145,15 @@ Implementing production-hardened security: **JWT authentication, OAuth2 (Google/
 
 | Certification | Issuer | Year |
 |---|---|---|
-| AWS Certified Cloud Practitioner | Amazon Web Services | 2026 |
+| AWS Certified Cloud Practitioner | Amazon Web Services | Feb 2026 (expires Feb 2029) |
 
 - Mentored **50+ engineering students** across structured multi-cohort backend and cloud programmes
 - Reviewed **100+ code submissions**, improving API design quality and reducing recurring error patterns by 40%
 - Engineered **20+ RESTful API endpoints** across 4 business domains in production
 - Architected **8+ AWS VPC environments** achieving 99%+ uptime across all evaluations
 - Codified **20+ AWS resources** in Terraform, cutting environment provisioning time by 60%
+- Ranked **10th of ~70** college teams, ECPC (Egyptian Collegiate Programming Contest)
+- Ranked **2nd of ~70** teams, EOCS problem-solving programming contest
 
 ---
 
