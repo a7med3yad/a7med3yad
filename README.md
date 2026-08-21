@@ -21,10 +21,11 @@ AWS-certified Software Engineer and Cloud Engineer based in Cairo, Egypt, with i
 
 My engineering approach is grounded in **Clean Architecture**, **infrastructure as code**, and **DevOps discipline** — I care about systems that are secure, maintainable, and built to scale. Whether designing a multi-domain REST API, codifying AWS environments in Terraform, or hardening backend security with JWT and RBAC, I focus on engineering quality over shortcuts.
 
+- Currently working as a **Forward Deployed Engineer** at **Control Union** (remote), embedded with the client to build and iterate on their production HR Management System
 - Completed backend/DevOps internship at **DEPI** and cloud engineering internship at **NTI** (2025)
 - Building production systems with **ASP.NET Core**, **AWS**, and **Terraform** — most recently a 15-module HRMS backend with 384 automated tests
 - Deepening expertise in **distributed systems**, **cloud-native architecture**, and **system design**
-- Open to backend engineering, cloud engineering, and DevOps internships or contract roles (available on a contract basis until completing military service) — remote or hybrid
+- Open to additional backend engineering, cloud engineering, and DevOps opportunities on a contract basis (available until completing military service) — remote or hybrid
 - B.Sc. Computer & Data Science, Alexandria University (Expected May 2027)
 
 ---
@@ -100,11 +101,12 @@ Implementing production-hardened security: **JWT authentication, OAuth2 (Google/
 
 ---
 
-## Featured Projects
+## Current Work
 
-### HRMS — Enterprise HR Management Backend (Control Union HRMS)
-> 15-module Clean Architecture backend covering the full employee lifecycle
+### HRMS — Enterprise HR Management System @ Control Union
+> Forward Deployed Engineer, Jul 2026 – Present · Remote · 15-module Clean Architecture backend covering the full employee lifecycle
 
+- Embedded directly with Control Union to translate live client requirements into a production backend architecture
 - **Architecture:** CQRS with MediatR, Repository & Unit of Work, Specification, Domain Events, Transactional Outbox — 43 entities across 13 EF Core migrations
 - **Domain logic:** 12-step attendance validation pipeline (device registration, GPS geofencing, mock-location/emulator detection) using the Strategy pattern for pluggable fraud checks
 - **Payroll:** progressive income-tax calculation and loan installment deduction as pure, independently unit-tested domain calculators
@@ -114,6 +116,8 @@ Implementing production-hardened security: **JWT authentication, OAuth2 (Google/
 `C#` `ASP.NET Core` `EF Core` `SQL Server` `CQRS` `AWS Lightsail`
 
 ---
+
+## Featured Projects
 
 ### BlindIdea — Anonymous Team Collaboration Platform
 > Full-stack platform for anonymous idea submission with permanent author concealment
