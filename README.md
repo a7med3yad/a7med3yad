@@ -24,6 +24,7 @@ My engineering approach is grounded in **Clean Architecture**, **infrastructure 
 - Currently working as a **Forward Deployed Engineer** at **Control Union** (remote), embedded with the client to build and iterate on their production HR Management System
 - Completed backend/DevOps internship at **DEPI** and cloud engineering internship at **NTI** (2025)
 - Building production systems with **ASP.NET Core**, **AWS**, and **Terraform** — most recently a 15-module HRMS backend with 384 automated tests
+- Currently expanding into **agentic AI** and **generative AI** application development — exploring LLM-powered tooling and autonomous agent design patterns
 - Deepening expertise in **distributed systems**, **cloud-native architecture**, and **system design**
 - Open to additional backend engineering, cloud engineering, and DevOps opportunities on a contract basis (available until completing military service) — remote or hybrid
 - B.Sc. Computer & Data Science, Alexandria University (Expected May 2027)
@@ -70,6 +71,7 @@ My engineering approach is grounded in **Clean Architecture**, **infrastructure 
 
 **Databases**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
@@ -163,10 +165,11 @@ Implementing production-hardened security: **JWT authentication, OAuth2 (Google/
 
 ## Currently Learning
 
+- **Agentic AI systems** — autonomous agent design patterns, tool-use, and orchestration
+- **Generative AI / LLM application development** — building LLM-powered tooling and integrations
 - Advanced **system design** patterns for distributed, high-scale architectures
 - **Kubernetes** orchestration for containerized production workloads
 - **AWS Solutions Architect** certification track
-- **Machine learning engineering** and ML pipeline deployment
 - **Microservices** patterns and inter-service communication at scale
 
 ---
