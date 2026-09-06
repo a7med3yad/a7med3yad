@@ -6,10 +6,6 @@
 
 
 <p align="center">
-  <strong>ASP.NET Core · AWS · Terraform · Docker · CI/CD</strong>
-</p>
-
-<p align="center">
   <a href="https://github.com/a7med3yad">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
   </a>
