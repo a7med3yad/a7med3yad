@@ -1,7 +1,8 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:070a0e&height=180&section=header&text=Ahmed%20Ibrahim%20Ayad&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20Cloud%20%7C%20Agentic%20AI%20Engineer&descAlignY=55&descAlign=50" width="100%" />
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AWS-Certified+Backend+%26+Cloud+Engineer;Clean+Architecture+%7C+CQRS+%7C+DevOps;Now+building+agentic+%26+LLM-powered+systems;Gojo-tier+at+debugging+production+incidents+%F0%9F%94%B5;&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/a7med3yad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ahmedabouayad/)
@@ -9,8 +10,8 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/Abou_3yad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/a7med3yad/)
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=a7med3yad&label=Profile+Views&color=0d1117&style=flat-square)
+
 </div>
 
 ---
@@ -24,8 +25,8 @@ My engineering approach is grounded in **Clean Architecture**, **infrastructure 
 - Currently working as a **Forward Deployed Engineer** at **Control Union** (remote), embedded with the client to build and iterate on their production HR Management System
 - Completed backend/DevOps internship at **DEPI** and cloud engineering internship at **NTI** (2025)
 - Building production systems with **ASP.NET Core**, **AWS**, and **Terraform** — most recently a 15-module HRMS backend with 384 automated tests
-- Currently expanding into **agentic AI** and **generative AI** application development — exploring LLM-powered tooling and autonomous agent design patterns
-- Deepening expertise in **distributed systems**, **cloud-native architecture**, and **system design**
+- Currently expanding into **agentic AI** and **generative AI** application development — exploring LLM orchestration, tool-use, and autonomous agent design patterns
+- Deepening expertise in **distributed systems**, **cloud-native architecture**, **Kubernetes**, and system design
 - Open to additional backend engineering, cloud engineering, and DevOps opportunities on a contract basis (available until completing military service) — remote or hybrid
 - B.Sc. Computer & Data Science, Alexandria University (Expected May 2027)
 
@@ -47,6 +48,7 @@ My engineering approach is grounded in **Clean Architecture**, **infrastructure 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 ![REST API](https://img.shields.io/badge/RESTful_API-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=E10098)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0d1117?style=for-the-badge&logo=buffer&logoColor=58a6ff)
 ![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-0d1117?style=for-the-badge&logo=auth0&logoColor=EB5424)
@@ -61,6 +63,7 @@ My engineering approach is grounded in **Clean Architecture**, **infrastructure 
 ![IAM](https://img.shields.io/badge/IAM-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=DD344C)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-0d1117?style=for-the-badge&logo=amazon-cloudwatch&logoColor=FF4F8B)
 ![Cognito](https://img.shields.io/badge/Cognito-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=DD344C)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 
 **DevOps & CI/CD**
 
@@ -69,18 +72,43 @@ My engineering approach is grounded in **Clean Architecture**, **infrastructure 
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 
-**Databases**
+**Databases & Messaging**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF)
+
+**Agentic AI & LLM Tooling** *(currently leveling up here)*
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=412991)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=D4A27F)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![Vector DB](https://img.shields.io/badge/Vector_DBs-0d1117?style=for-the-badge&logo=pinecone&logoColor=1C17FF)
 
 **Frontend & Tools**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Swagger](https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger&logoColor=85EA2D)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3yad&hide_border=true&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=a7med3yad&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+> These update automatically — no maintenance needed. Swap `a7med3yad` for your own username if you're forking this.
 
 ---
 
@@ -100,6 +128,9 @@ Building **GitHub Actions** pipelines for multi-environment deployments — no m
 
 ### Security Engineering
 Implementing production-hardened security: **JWT authentication, OAuth2 (Google/GitHub), RBAC, AES-256 encryption, secrets management, IAM least-privilege**, and NACLs across cloud workloads.
+
+### Agentic & Generative AI *(new)*
+Exploring LLM orchestration and tool-use patterns, retrieval-augmented generation with vector databases, and UX principles for trustworthy agent systems — bridging backend engineering discipline with the emerging agentic AI stack.
 
 ---
 
@@ -166,17 +197,27 @@ Implementing production-hardened security: **JWT authentication, OAuth2 (Google/
 ## Currently Learning
 
 - **Agentic AI systems** — autonomous agent design patterns, tool-use, and orchestration
-- **Generative AI / LLM application development** — building LLM-powered tooling and integrations
+- **Generative AI / LLM application development** — LangChain, RAG pipelines, vector databases
 - Advanced **system design** patterns for distributed, high-scale architectures
 - **Kubernetes** orchestration for containerized production workloads
 - **AWS Solutions Architect** certification track
-- **Microservices** patterns and inter-service communication at scale
+- **Microservices** patterns and inter-service communication at scale (Kafka event streaming)
 
 ---
 
 ## Engineering Philosophy
 
 > *"Good engineering is invisible — it's the system that never goes down, the API that never surprises, the deployment that just works. The craft is in the details no one sees."*
+
+<div align="center">
+<sub>Also true of a well-placed Domain Expansion — the setup nobody sees is what makes the finisher land clean. 🔵</sub>
+
+<br/><br/>
+
+<img height="220" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="anime break" />
+
+<sub>(a little chaos energy for the profile — refreshes on every page load)</sub>
+</div>
 
 ---
 
