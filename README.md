@@ -210,13 +210,12 @@ Exploring LLM orchestration and tool-use patterns, retrieval-augmented generatio
 > *"Good engineering is invisible — it's the system that never goes down, the API that never surprises, the deployment that just works. The craft is in the details no one sees."*
 
 <div align="center">
-<sub>Also true of a well-placed Domain Expansion — the setup nobody sees is what makes the finisher land clean. 🔵</sub>
+
 
 <br/><br/>
 
 <img height="220" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="anime break" />
 
-<sub>(a little chaos energy for the profile — refreshes on every page load)</sub>
 </div>
 
 ---
