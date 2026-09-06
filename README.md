@@ -1,113 +1,313 @@
-<h1 align="center">Hi, I'm Ahmed Ibrahim Ayad — a backend & cloud engineer.</h1>
-
-<p align="center"><b>I build the systems, and the infrastructure that keeps them running.</b></p>
+<h1 align="center">Ahmed Ibrahim Ayad</h1>
 
 <p align="center">
-Cross-domain backend engineer shipping production systems since 2025 with <b>ASP.NET Core</b>, <b>AWS</b>, and <b>Terraform</b> — currently embedded as a Forward Deployed Engineer building an enterprise HRMS from the ground up, and expanding into agentic AI tooling.
+  <strong>Forward Deployed Engineer</strong>
 </p>
 
-<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/a7med3yad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ahmedabouayad/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ahmed.ibrahim01974@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/Abou_3yad)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/a7med3yad/)
+<p align="center">
+  <strong>ASP.NET Core · AWS · Terraform · Docker · CI/CD</strong>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=a7med3yad&label=Profile+Views&color=0d1117&style=flat-square)
-
-</div>
-
-🌐 **[github.com/a7med3yad](https://github.com/a7med3yad)** — Projects · [LMS](https://github.com/a7med3yad/LMS)
-
----
-
-## 🛠 Tech Stack
-
-- **Backend** · ASP.NET Core · Entity Framework Core · C# · Clean Architecture · CQRS · RESTful APIs · GraphQL
-- **Cloud & Infra** · AWS (EC2, S3, RDS, VPC, IAM, CloudWatch, Cognito, Lightsail) · Terraform · Kubernetes · Docker
-- **Data & Messaging** · PostgreSQL · SQL Server · MySQL · Redis · Kafka
-- **Emerging** · Agentic AI orchestration · LLM tooling (OpenAI/Anthropic APIs, LangChain) · Vector databases
-
-## ✨ Core Competencies
-
-- 🚀 **Production systems & cloud infrastructure:** I design and ship backend systems under Clean Architecture and deploy the AWS infrastructure that runs them. As a Forward Deployed Engineer at **Control Union**, I embedded directly with the client to build a 15-module HR Management System — attendance, payroll, leave, and reporting — deployed on AWS Lightsail with 384 automated tests. Earlier, at **NTI**, I architected 8+ AWS VPC environments and codified 20+ resources in Terraform, cutting environment setup time by 60%.
-- 🔧 **Domain modeling & pattern-driven architecture:** I implement CQRS with MediatR, Repository/Unit of Work, Specification, and Domain Events to keep business logic testable and swappable. In the HRMS, this meant a 12-step attendance validation pipeline built on the Strategy pattern for pluggable fraud checks, and payroll tax/loan calculators as pure, independently unit-tested domain logic across 43 entities.
-- 🤖 **Agentic AI & dev tooling exploration:** I'm extending my backend background into agentic system design — studying interaction modalities, memory/context management, and trust-building patterns (capability communication, graceful failure, confidence signaling) for LLM-powered agents, and experimenting with LangChain and vector-store retrieval.
-- 📚 **Research & sharing:** I co-authored a published comparative study applying User-Centred Design to three university academic portals — running student interviews, a 50-respondent survey, heuristic evaluation, and System Usability Scale benchmarking to drive real redesigns. I also mentor 50+ engineering students and have reviewed 100+ code submissions, cutting recurring error patterns by 40%.
-
-## 📦 Production Systems
-
-| System | Description | Link |
-| --- | --- | --- |
-| **HRMS (Control Union)** | 15-module Clean Architecture HR platform — identity, attendance, leave, payroll, loans, tasks, reporting — 384 automated tests, deployed on AWS Lightsail | Private client system |
-| **BlindIdea** | Anonymous team collaboration platform — React SPA + ASP.NET Core API, AES-256 encryption, OAuth2, full AWS/Terraform stack | [GitHub](https://github.com/a7med3yad) |
-| **LMS** | Role-based Learning Management backend for Admin/Instructor/Student — email OTP, JWT refresh tokens, Google/Facebook OAuth | [GitHub](https://github.com/a7med3yad/LMS) |
-
-## 🧰 Open Source & Ongoing Work
-
-| Project | Description | Link |
-| --- | --- | --- |
-| **LMS — Role-Based LMS Backend** | Clean Architecture backend (Domain/Application/Infrastructure/API) with 10+ entities behind repository/unit-of-work abstractions | [GitHub](https://github.com/a7med3yad/LMS) |
-| **BlindIdea** | Full-stack anonymous idea-sharing platform, containerized and deployed via GitHub Actions CI/CD | [GitHub](https://github.com/a7med3yad) |
-
-Full project list on my [GitHub profile](https://github.com/a7med3yad).
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" style="display:block;margin:20px auto;" width="100%" alt=""/>
-
-## 📊 Coding Activity & Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3yad&hide_border=true&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-</div>
-
-**Language Usage**
-
-<div align="center">
-
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-If that card doesn't load (Vercel free-tier cold starts do this occasionally), here's the same breakdown as static badges that always render:
-
-![C#](https://img.shields.io/badge/C%23-45%25-0d1117?style=flat-square&logo=c-sharp&logoColor=239120)
-![JavaScript/TypeScript](https://img.shields.io/badge/JS%2FTS-20%25-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-15%25-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![HCL (Terraform)](https://img.shields.io/badge/HCL-10%25-0d1117?style=flat-square&logo=terraform&logoColor=844FBA)
-![Other](https://img.shields.io/badge/Other-10%25-0d1117?style=flat-square&logo=files&logoColor=8b949e)
-
-> *Approximate split based on active repos and day-to-day stack.*
-
-> 💡 Want real-time coding-time stats like WakaTime? Sign up at [wakatime.com](https://wakatime.com), install the editor plugin, and add your badge here — same pattern as the GitHub stats cards above, just a different data source.
+<p align="center">
+  <a href="https://github.com/a7med3yad">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedabouayad/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  </a>
+  <a href="mailto:3yad000000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+  </a>
+  <a href="https://codeforces.com/profile/Abou_3yad">
+    <img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces">
+  </a>
+  <a href="https://leetcode.com/u/a7med3yad/">
+    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode">
+  </a>
+</p>
 
 ---
 
-## 🎓 Certifications & Achievements
+## About
 
-| Certification | Issuer | Year |
-| --- | --- | --- |
-| AWS Certified Cloud Practitioner | Amazon Web Services | Feb 2026 (expires Feb 2029) |
+I am a Computer and Data Science student focused on backend engineering, cloud infrastructure, and distributed systems.
 
-- Mentored **50+ engineering students** across structured multi-cohort backend and cloud programmes
-- Reviewed **100+ code submissions**, reducing recurring error patterns by 40%
-- Architected **8+ AWS VPC environments** achieving 99%+ uptime
-- Codified **20+ AWS resources** in Terraform, cutting environment provisioning time by 60%
-- Ranked **10th of ~70** teams, ECPC (Egyptian Collegiate Programming Contest)
-- Ranked **2nd of ~70** teams, EOCS problem-solving contest
+My primary stack is **C#, ASP.NET Core, AWS, Terraform, Docker, and SQL**. I focus on designing maintainable backend architectures, building RESTful APIs, automating infrastructure, and deploying applications to cloud environments.
 
-## 📚 Currently Learning
+I am also expanding into **agentic AI and LLM application development**, with a focus on tool orchestration, retrieval-augmented generation, vector databases, and developer-focused AI tooling.
 
-- **Agentic AI systems** — autonomous agent design patterns, tool-use, orchestration
-- **LLM application development** — LangChain, RAG pipelines, vector databases
-- **Kubernetes** orchestration for containerized production workloads
-- **AWS Solutions Architect** certification track
-- **Microservices** patterns and event streaming with Kafka
+Currently, I am working as a **Forward Deployed Engineer at Control Union**, contributing directly to the development of an enterprise HR Management System and working across backend architecture, business logic, testing, deployment, and infrastructure.
+
+## Technical Stack
+
+### Backend
+
+* C#
+* ASP.NET Core
+* Entity Framework Core
+* RESTful APIs
+* GraphQL
+* Clean Architecture
+* CQRS
+* MediatR
+* Repository & Unit of Work
+* Specification Pattern
+* Domain Events
+* Strategy Pattern
+
+### Cloud & Infrastructure
+
+* AWS
+
+  * EC2
+  * S3
+  * RDS
+  * VPC
+  * IAM
+  * CloudWatch
+  * Cognito
+  * Lightsail
+* Terraform
+* Docker
+* Kubernetes
+* Linux
+* GitHub Actions
+* CI/CD
+
+### Databases & Messaging
+
+* PostgreSQL
+* SQL Server
+* MySQL
+* Redis
+* Kafka
+
+### AI & Data
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* PyTorch
+* LLM APIs
+* LangChain
+* RAG
+* Vector Databases
+* Agentic AI
 
 ---
 
-<p align="center"><i>"Good engineering is invisible — it's the system that never goes down, the API that never surprises, the deployment that just works."</i></p>
+## Professional Experience
+
+### Forward Deployed Engineer — Control Union
+
+Currently contributing to an enterprise **Human Resources Management System** covering multiple business domains, including:
+
+* Identity and access management
+* Employee management
+* Attendance
+* Leave management
+* Payroll
+* Loans
+* Tasks
+* Reporting
+
+Key engineering responsibilities include:
+
+* Designing backend services using **ASP.NET Core and Clean Architecture**
+* Implementing business logic using domain-driven patterns
+* Building reusable application and infrastructure components
+* Developing automated unit and integration tests
+* Working directly with client requirements and translating them into technical solutions
+* Deploying and maintaining the application on **AWS Lightsail**
+
+The system currently includes **15 functional modules** and **384 automated tests**.
+
+### NTI — Cloud & Backend Training
+
+Worked on AWS infrastructure and infrastructure-as-code using **Terraform**, with practical experience in:
+
+* AWS VPC architecture
+* EC2
+* RDS
+* IAM
+* Networking
+* Security groups
+* Infrastructure provisioning
+* Terraform resource management
+
+Architected multiple AWS VPC environments and codified AWS infrastructure using Terraform.
+
+---
+
+## Selected Projects
+
+| Project       | Description                                                                                                  | Technologies                                          |
+| ------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
+| **HRMS**      | Enterprise HR Management System with 15 functional modules, automated testing, and cloud deployment          | ASP.NET Core, PostgreSQL, AWS, Clean Architecture     |
+| **BlindIdea** | Anonymous team collaboration and idea-sharing platform with authentication, encryption, and cloud deployment | ASP.NET Core, React, AWS, Terraform, Docker           |
+| **LMS**       | Role-based Learning Management System backend for administrators, instructors, and students                  | ASP.NET Core, EF Core, JWT, OAuth, Clean Architecture |
+
+### BlindIdea
+
+An anonymous collaboration platform designed for teams to submit and evaluate ideas.
+
+Key features include:
+
+* ASP.NET Core REST API
+* React frontend
+* OAuth authentication
+* AES-256 encryption
+* Entity Framework Core
+* Clean Architecture
+* Docker
+* GitHub Actions
+* AWS infrastructure
+* Terraform
+* Nginx reverse proxy
+* PostgreSQL
+
+[View Repository](https://github.com/a7med3yad)
+
+### LMS
+
+A role-based Learning Management System backend supporting:
+
+* Admin
+* Instructor
+* Student
+
+Key features include:
+
+* Clean Architecture
+* Repository and Unit of Work
+* JWT authentication
+* Refresh tokens
+* Email OTP
+* Google OAuth
+* Facebook OAuth
+* Role-based authorization
+* Entity Framework Core
+* RESTful APIs
+
+[View Repository](https://github.com/a7med3yad/LMS)
+
+---
+
+## Engineering Focus
+
+### Backend Architecture
+
+I focus on building backend systems that remain maintainable as their complexity grows.
+
+My experience includes:
+
+* Clean Architecture
+* CQRS
+* Domain-driven design concepts
+* SOLID principles
+* Design patterns
+* API design
+* Authentication and authorization
+* Automated testing
+* Database design
+
+### Cloud Engineering
+
+I work with cloud infrastructure from both the application and infrastructure perspectives.
+
+This includes:
+
+* Designing AWS environments
+* Networking and VPC architecture
+* Compute and storage
+* Managed databases
+* IAM and security
+* Infrastructure as Code
+* Containerized deployments
+* CI/CD automation
+
+### Agentic AI
+
+I am currently expanding my backend engineering background into AI systems, focusing on:
+
+* Agent architecture
+* Tool calling
+* Agent orchestration
+* Context and memory management
+* RAG
+* Vector search
+* LLM APIs
+* Developer productivity tools
+
+---
+
+## Research
+
+I co-authored a comparative study on **User-Centred Design in university academic portals**.
+
+The research included:
+
+* Student interviews
+* A 50-participant survey
+* Heuristic evaluation
+* System Usability Scale benchmarking
+* Comparative analysis of three academic portals
+* UX-driven redesign recommendations
+
+---
+
+## Teaching & Mentoring
+
+I have experience mentoring engineering students in:
+
+* Backend development
+* Programming
+* Statistics
+* Probability
+* Numerical methods
+* Data science
+
+I have mentored **50+ students** and reviewed **100+ programming assignments and code submissions**.
+
+---
+
+## Achievements
+
+* **AWS Certified Cloud Practitioner** — 2026
+* **10th place** — ECPC, approximately 70 teams
+* **2nd place** — EOCS Problem-Solving Contest, approximately 70 teams
+* Solved **700+ competitive programming problems** across Codeforces, LeetCode, and VJudge
+
+---
+
+## Currently Learning
+
+* Agentic AI systems
+* LLM application development
+* RAG architectures
+* Vector databases
+* Kubernetes
+* Microservices
+* Apache Kafka
+* AWS Solutions Architect concepts
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Statistics">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3yad&hide_border=true&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages">
+</p>
+
+---
+
+<p align="center">
+  <strong>Backend systems. Cloud infrastructure. Reliable engineering.</strong>
+</p>
