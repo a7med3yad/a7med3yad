@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:070a0e&height=180&section=header&text=Ahmed%20Ibrahim%20Ayad&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20Cloud%20%7C%20Agentic%20AI%20Engineer&descAlignY=55&descAlign=50" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AWS-Certified+Backend+%26+Cloud+Engineer;Clean+Architecture+%7C+CQRS+%7C+DevOps;Now+building+agentic+%26+LLM-powered+systems;Gojo-tier+at+debugging+production+incidents+%F0%9F%94%B5;&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AWS-Certified+Backend+%26+Cloud+Engineer;Clean+Architecture+%7C+CQRS+%7C+DevOps;Now+building+agentic+%26+LLM-powered+systems;&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/a7med3yad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ahmedabouayad/)
@@ -100,15 +100,28 @@ My engineering approach is grounded in **Clean Architecture**, **infrastructure 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3yad&hide_border=true&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=a7med3yad&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+## Language Usage
+
+<div align="center">
+
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
-> These update automatically — no maintenance needed. Swap `a7med3yad` for your own username if you're forking this.
+If that card doesn't load (Vercel free-tier cold starts do this occasionally), here's the same breakdown as static badges that always render:
+
+![C#](https://img.shields.io/badge/C%23-45%25-0d1117?style=flat-square&logo=c-sharp&logoColor=239120)
+![JavaScript/TypeScript](https://img.shields.io/badge/JS%2FTS-20%25-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-15%25-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![HCL (Terraform)](https://img.shields.io/badge/HCL-10%25-0d1117?style=flat-square&logo=terraform&logoColor=844FBA)
+![Other](https://img.shields.io/badge/Other-10%25-0d1117?style=flat-square&logo=files&logoColor=8b949e)
+
+> *Approximate split based on my active repos and day-to-day stack — swap the numbers for your own if you fork this, or just keep the dynamic card above if it's loading fine for you.*
 
 ---
 
@@ -208,15 +221,6 @@ Exploring LLM orchestration and tool-use patterns, retrieval-augmented generatio
 ## Engineering Philosophy
 
 > *"Good engineering is invisible — it's the system that never goes down, the API that never surprises, the deployment that just works. The craft is in the details no one sees."*
-
-<div align="center">
-
-
-<br/><br/>
-
-<img height="220" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="anime break" />
-
-</div>
 
 ---
 
