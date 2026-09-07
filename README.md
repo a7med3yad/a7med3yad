@@ -299,7 +299,7 @@ I have mentored **50+ students** and reviewed **100+ programming assignments and
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=midnight)
 </p>
 
 ---
