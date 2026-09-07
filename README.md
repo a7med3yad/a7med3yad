@@ -4,7 +4,6 @@
   <strong>Forward Deployed Engineer</strong>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/a7med3yad">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
@@ -25,17 +24,19 @@
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I am a Computer and Data Science student focused on backend engineering, cloud infrastructure, and distributed systems.
+I am a **Computer and Data Science student** focused on backend engineering, cloud infrastructure, distributed systems, and AI-powered applications.
 
-My primary stack is **C#, ASP.NET Core, AWS, Terraform, Docker, and SQL**. I focus on designing maintainable backend architectures, building RESTful APIs, automating infrastructure, and deploying applications to cloud environments.
+My primary stack is **C#, ASP.NET Core, AWS, Terraform, Docker, PostgreSQL, and SQL**. I enjoy designing maintainable backend architectures, building production-ready APIs, automating infrastructure, and deploying applications to cloud environments.
 
-I am also expanding into **agentic AI and LLM application development**, with a focus on tool orchestration, retrieval-augmented generation, vector databases, and developer-focused AI tooling.
+I am also expanding into **Agentic AI and LLM application development**, with a focus on tool orchestration, RAG, vector databases, LLM APIs, and developer-focused AI tooling.
 
-Currently, I am working as a **Forward Deployed Engineer at Control Union**, contributing directly to the development of an enterprise HR Management System and working across backend architecture, business logic, testing, deployment, and infrastructure.
+Currently, I work as a **Forward Deployed Engineer at Control Union**, contributing directly to an enterprise Human Resources Management System and working across backend architecture, business logic, testing, deployment, and infrastructure.
 
-## Technical Stack
+---
+
+## 🛠️ Technical Stack
 
 ### Backend
 
@@ -52,7 +53,7 @@ Currently, I am working as a **Forward Deployed Engineer at Control Union**, con
 * Domain Events
 * Strategy Pattern
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
 * AWS
 
@@ -71,15 +72,15 @@ Currently, I am working as a **Forward Deployed Engineer at Control Union**, con
 * GitHub Actions
 * CI/CD
 
-### Databases & Messaging
+### 🗄️ Databases & Messaging
 
 * PostgreSQL
 * SQL Server
 * MySQL
 * Redis
-* Kafka
+* Apache Kafka
 
-### AI & Data
+### 🤖 AI & Data
 
 * Python
 * Pandas
@@ -94,62 +95,73 @@ Currently, I am working as a **Forward Deployed Engineer at Control Union**, con
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 ### Forward Deployed Engineer — Control Union
 
-Currently contributing to an enterprise **Human Resources Management System** covering multiple business domains, including:
+Contributing to an enterprise **Human Resources Management System** covering multiple business domains:
 
-* Identity and access management
-* Employee management
+* Identity & Access Management
+* Employee Management
 * Attendance
-* Leave management
+* Leave Management
 * Payroll
 * Loans
 * Tasks
 * Reporting
 
-Key engineering responsibilities include:
+Key responsibilities:
 
 * Designing backend services using **ASP.NET Core and Clean Architecture**
-* Implementing business logic using domain-driven patterns
+* Implementing complex business logic using domain-driven design concepts
 * Building reusable application and infrastructure components
 * Developing automated unit and integration tests
-* Working directly with client requirements and translating them into technical solutions
+* Translating client requirements into technical solutions
+* Working across backend architecture, testing, deployment, and infrastructure
 * Deploying and maintaining the application on **AWS Lightsail**
 
-The system currently includes **15 functional modules** and **384 automated tests**.
+**System scale:**
+
+* 15 functional modules
+* 384 automated tests
+
+---
 
 ### NTI — Cloud & Backend Training
 
-Worked on AWS infrastructure and infrastructure-as-code using **Terraform**, with practical experience in:
+Worked extensively with AWS infrastructure and Infrastructure as Code using **Terraform**.
+
+Practical experience includes:
 
 * AWS VPC architecture
 * EC2
 * RDS
 * IAM
 * Networking
-* Security groups
+* Security Groups
 * Infrastructure provisioning
 * Terraform resource management
 
-Architected multiple AWS VPC environments and codified AWS infrastructure using Terraform.
+Designed multiple AWS VPC environments and codified cloud infrastructure using Terraform.
 
 ---
 
-## Selected Projects
+## 🚀 Selected Projects
 
-| Project       | Description                                                                                                  | Technologies                                          |
-| ------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
-| **HRMS**      | Enterprise HR Management System with 15 functional modules, automated testing, and cloud deployment          | ASP.NET Core, PostgreSQL, AWS, Clean Architecture     |
-| **BlindIdea** | Anonymous team collaboration and idea-sharing platform with authentication, encryption, and cloud deployment | ASP.NET Core, React, AWS, Terraform, Docker           |
-| **LMS**       | Role-based Learning Management System backend for administrators, instructors, and students                  | ASP.NET Core, EF Core, JWT, OAuth, Clean Architecture |
+### HRMS
+
+Enterprise Human Resources Management System with multiple business domains, automated testing, and cloud deployment.
+
+**Technologies:**
+ASP.NET Core · PostgreSQL · AWS · Clean Architecture · EF Core
+
+---
 
 ### BlindIdea
 
-An anonymous collaboration platform designed for teams to submit and evaluate ideas.
+Anonymous collaboration and idea-sharing platform designed for teams to submit and evaluate ideas.
 
-Key features include:
+**Key features:**
 
 * ASP.NET Core REST API
 * React frontend
@@ -164,20 +176,18 @@ Key features include:
 * Nginx reverse proxy
 * PostgreSQL
 
-[View Repository](https://github.com/a7med3yad)
+🔗 [View Repository](https://github.com/a7med3yad)
+
+---
 
 ### LMS
 
-A role-based Learning Management System backend supporting:
+Role-based Learning Management System backend supporting administrators, instructors, and students.
 
-* Admin
-* Instructor
-* Student
-
-Key features include:
+**Key features:**
 
 * Clean Architecture
-* Repository and Unit of Work
+* Repository & Unit of Work
 * JWT authentication
 * Refresh tokens
 * Email OTP
@@ -187,36 +197,37 @@ Key features include:
 * Entity Framework Core
 * RESTful APIs
 
-[View Repository](https://github.com/a7med3yad/LMS)
+🔗 [View Repository](https://github.com/a7med3yad/LMS)
 
 ---
 
-## Engineering Focus
+## 🧠 Engineering Focus
 
 ### Backend Architecture
 
 I focus on building backend systems that remain maintainable as their complexity grows.
 
-My experience includes:
+Areas of interest:
 
 * Clean Architecture
 * CQRS
-* Domain-driven design concepts
+* Domain-Driven Design
 * SOLID principles
-* Design patterns
-* API design
-* Authentication and authorization
-* Automated testing
-* Database design
+* Design Patterns
+* API Design
+* Authentication & Authorization
+* Automated Testing
+* Database Design
+* Distributed Systems
 
 ### Cloud Engineering
 
-I work with cloud infrastructure from both the application and infrastructure perspectives.
+I work across both application and infrastructure layers.
 
-This includes:
+Experience includes:
 
-* Designing AWS environments
-* Networking and VPC architecture
+* AWS architecture
+* VPC and networking
 * Compute and storage
 * Managed databases
 * IAM and security
@@ -226,12 +237,15 @@ This includes:
 
 ### Agentic AI
 
-I am currently expanding my backend engineering background into AI systems, focusing on:
+Currently expanding my backend engineering background into AI systems.
+
+Focus areas:
 
 * Agent architecture
 * Tool calling
 * Agent orchestration
-* Context and memory management
+* Context management
+* Memory systems
 * RAG
 * Vector search
 * LLM APIs
@@ -239,14 +253,14 @@ I am currently expanding my backend engineering background into AI systems, focu
 
 ---
 
-## Research
+## 🔬 Research
 
-I co-authored a comparative study on **User-Centred Design in university academic portals**.
+Co-authored a comparative study on **User-Centred Design in University Academic Portals**.
 
 The research included:
 
 * Student interviews
-* A 50-participant survey
+* 50-participant survey
 * Heuristic evaluation
 * System Usability Scale benchmarking
 * Comparative analysis of three academic portals
@@ -254,52 +268,54 @@ The research included:
 
 ---
 
-## Teaching & Mentoring
+## 👨‍🏫 Teaching & Mentoring
 
-I have experience mentoring engineering students in:
+Experience mentoring engineering students in:
 
-* Backend development
+* Backend Development
 * Programming
 * Statistics
 * Probability
-* Numerical methods
-* Data science
+* Numerical Methods
+* Data Science
 
-I have mentored **50+ students** and reviewed **100+ programming assignments and code submissions**.
-
----
-
-## Achievements
-
-* **AWS Certified Cloud Practitioner** — 2026
-* **10th place** — ECPC, approximately 70 teams
-* **2nd place** — EOCS Problem-Solving Contest, approximately 70 teams
-* Solved **700+ competitive programming problems** across Codeforces, LeetCode, and VJudge
+**50+ students mentored**
+**100+ programming assignments and code submissions reviewed**
 
 ---
 
-## Currently Learning
+## 🏆 Achievements
 
-* Agentic AI systems
-* LLM application development
-* RAG architectures
-* Vector databases
+* 🏅 **AWS Certified Cloud Practitioner** — 2026
+* 🥇 **10th Place** — ECPC
+* 🥈 **2nd Place** — EOCS Problem-Solving Contest
+* 💻 **700+ Competitive Programming Problems** solved across Codeforces, LeetCode, and VJudge
+
+---
+
+## 📚 Currently Learning
+
+* Agentic AI Systems
+* LLM Application Development
+* RAG Architectures
+* Vector Databases
 * Kubernetes
 * Microservices
 * Apache Kafka
-* AWS Solutions Architect concepts
+* AWS Solutions Architect Concepts
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Statistics">
+
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3yad&hide_border=true&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=midnight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3yad&layout=compact&theme=midnight&hide_border=true" alt="Top Languages">
 </p>
 
 ---
