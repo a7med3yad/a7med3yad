@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a **Computer and Data Science student** focused on backend engineering, cloud infrastructure, distributed systems, and AI-powered applications.
 
@@ -36,7 +36,7 @@ Currently, I work as a **Forward Deployed Engineer at Control Union**, contribut
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 ### Backend
 
@@ -53,7 +53,7 @@ Currently, I work as a **Forward Deployed Engineer at Control Union**, contribut
 * Domain Events
 * Strategy Pattern
 
-### ☁️ Cloud & Infrastructure
+###  Cloud & Infrastructure
 
 * AWS
 
@@ -72,7 +72,7 @@ Currently, I work as a **Forward Deployed Engineer at Control Union**, contribut
 * GitHub Actions
 * CI/CD
 
-### 🗄️ Databases & Messaging
+###  Databases & Messaging
 
 * PostgreSQL
 * SQL Server
@@ -80,7 +80,7 @@ Currently, I work as a **Forward Deployed Engineer at Control Union**, contribut
 * Redis
 * Apache Kafka
 
-### 🤖 AI & Data
+###  AI & Data
 
 * Python
 * Pandas
@@ -95,7 +95,7 @@ Currently, I work as a **Forward Deployed Engineer at Control Union**, contribut
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Forward Deployed Engineer — Control Union
 
@@ -146,7 +146,7 @@ Designed multiple AWS VPC environments and codified cloud infrastructure using T
 
 ---
 
-## 🚀 Selected Projects
+##  Selected Projects
 
 ### HRMS
 
@@ -201,7 +201,7 @@ Role-based Learning Management System backend supporting administrators, instruc
 
 ---
 
-## 🧠 Engineering Focus
+##  Engineering Focus
 
 ### Backend Architecture
 
@@ -253,7 +253,7 @@ Focus areas:
 
 ---
 
-## 🔬 Research
+##  Research
 
 Co-authored a comparative study on **User-Centred Design in University Academic Portals**.
 
@@ -268,7 +268,7 @@ The research included:
 
 ---
 
-## 👨‍🏫 Teaching & Mentoring
+##  Teaching & Mentoring
 
 Experience mentoring engineering students in:
 
@@ -284,7 +284,7 @@ Experience mentoring engineering students in:
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 * 🏅 **AWS Certified Cloud Practitioner** — 2026
 * 🥇 **10th Place** — ECPC
@@ -293,7 +293,7 @@ Experience mentoring engineering students in:
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 * Agentic AI Systems
 * LLM Application Development
@@ -306,7 +306,7 @@ Experience mentoring engineering students in:
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Statistics">
