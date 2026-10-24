@@ -24,293 +24,166 @@
 
 ---
 
-##  About Me
+## About Me
 
-I am a **Computer and Data Science student** focused on backend engineering, cloud infrastructure, distributed systems, and AI-powered applications.
+I am a **Computer and Data Science student** specializing in backend engineering, cloud infrastructure, distributed systems, and AI-powered applications.
 
-My primary stack is **C#, ASP.NET Core, AWS, Terraform, Docker, PostgreSQL, and SQL**. I enjoy designing maintainable backend architectures, building production-ready APIs, automating infrastructure, and deploying applications to cloud environments.
+My core stack includes **C#, ASP.NET Core, AWS, Terraform, Docker, PostgreSQL, and SQL**. I focus on designing maintainable backend architectures, building production-grade APIs, automating infrastructure, and deploying scalable applications to cloud environments.
 
-I am also expanding into **Agentic AI and LLM application development**, with a focus on tool orchestration, RAG, vector databases, LLM APIs, and developer-focused AI tooling.
+I am also expanding into **Agentic AI and LLM application development**, focusing on tool orchestration, Retrieval-Augmented Generation (RAG), vector databases, LLM APIs, and developer-centric AI tooling.
 
-Currently, I work as a **Forward Deployed Engineer at Control Union**, contributing directly to an enterprise Human Resources Management System and working across backend architecture, business logic, testing, deployment, and infrastructure.
+Currently, I work as a **Forward Deployed Engineer at Control Union**, contributing directly to an enterprise Human Resources Management System (HRMS) across backend architecture, business logic, automated testing, deployment, and cloud infrastructure.
 
 ---
 
-##  Technical Stack
+## Technical Stack
 
 ### Backend
-
 * C#
 * ASP.NET Core
 * Entity Framework Core
-* RESTful APIs
-* GraphQL
-* Clean Architecture
-* CQRS
-* MediatR
-* Repository & Unit of Work
-* Specification Pattern
-* Domain Events
-* Strategy Pattern
+* RESTful APIs & GraphQL
+* Clean Architecture & CQRS
+* MediatR & Domain Events
+* Design Patterns (Repository, Unit of Work, Specification, Strategy)
 
-###  Cloud & Infrastructure
+### Cloud & Infrastructure
+* **AWS:** EC2, S3, RDS, VPC, IAM, CloudWatch, Cognito, Lightsail
+* **IaC & DevOps:** Terraform, Docker, Kubernetes, Linux, GitHub Actions, CI/CD
 
-* AWS
-
-  * EC2
-  * S3
-  * RDS
-  * VPC
-  * IAM
-  * CloudWatch
-  * Cognito
-  * Lightsail
-* Terraform
-* Docker
-* Kubernetes
-* Linux
-* GitHub Actions
-* CI/CD
-
-###  Databases & Messaging
-
-* PostgreSQL
-* SQL Server
-* MySQL
+### Databases & Messaging
+* PostgreSQL, SQL Server, MySQL
 * Redis
 * Apache Kafka
 
-###  AI & Data
-
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* PyTorch
-* LLM APIs
-* LangChain
-* RAG
-* Vector Databases
-* Agentic AI
+### AI & Data Engineering
+* Python, Pandas, NumPy, Scikit-learn, PyTorch
+* LLM APIs & LangChain
+* RAG Architecture & Vector Databases
+* Agentic AI Systems
 
 ---
 
-##  Professional Experience
+## Professional Experience
 
 ### Forward Deployed Engineer — Control Union
-
-Contributing to an enterprise **Human Resources Management System** covering multiple business domains:
-
+Contributing to an enterprise **Human Resources Management System (HRMS)** covering core business domains:
 * Identity & Access Management
-* Employee Management
-* Attendance
-* Leave Management
-* Payroll
-* Loans
-* Tasks
-* Reporting
+* Employee Management, Attendance, & Leave Management
+* Payroll, Loans, Tasks, & Executive Reporting
 
-Key responsibilities:
+**Key Responsibilities:**
+* Designed backend services using **ASP.NET Core** and **Clean Architecture**.
+* Implemented domain-driven design concepts to model complex business logic.
+* Engineered reusable application components and core infrastructure.
+* Built automated unit and integration test suites.
+* Translated client requirements into scalable technical solutions.
+* Deployed and managed production applications on **AWS Lightsail**.
 
-* Designing backend services using **ASP.NET Core and Clean Architecture**
-* Implementing complex business logic using domain-driven design concepts
-* Building reusable application and infrastructure components
-* Developing automated unit and integration tests
-* Translating client requirements into technical solutions
-* Working across backend architecture, testing, deployment, and infrastructure
-* Deploying and maintaining the application on **AWS Lightsail**
-
-**System scale:**
-
+**Metrics & Scale:**
 * 15 functional modules
-* 384 automated tests
+* 384 automated test cases
 
 ---
 
-### NTI — Cloud & Backend Training
+### NTI — Cloud & Backend Engineering Trainee
+Focused on AWS infrastructure design and Infrastructure as Code (IaC) implementation using **Terraform**.
 
-Worked extensively with AWS infrastructure and Infrastructure as Code using **Terraform**.
-
-Practical experience includes:
-
-* AWS VPC architecture
-* EC2
-* RDS
-* IAM
-* Networking
-* Security Groups
-* Infrastructure provisioning
-* Terraform resource management
-
-Designed multiple AWS VPC environments and codified cloud infrastructure using Terraform.
+**Key Achievements:**
+* Architected end-to-end AWS VPC environments including EC2, RDS, IAM, subnet networking, and security groups.
+* Codified multi-tier cloud infrastructure using declarative Terraform resource models.
 
 ---
 
-##  Selected Projects
+## Selected Projects
 
 ### HRMS
-
-Enterprise Human Resources Management System with multiple business domains, automated testing, and cloud deployment.
-
-**Technologies:**
-ASP.NET Core · PostgreSQL · AWS · Clean Architecture · EF Core
+Enterprise Human Resources Management System featuring multi-domain support, comprehensive automated testing, and automated cloud deployments.
+* **Tech Stack:** ASP.NET Core, PostgreSQL, AWS, Clean Architecture, EF Core
 
 ---
 
 ### BlindIdea
-
-Anonymous collaboration and idea-sharing platform designed for teams to submit and evaluate ideas.
-
-**Key features:**
-
-* ASP.NET Core REST API
-* React frontend
-* OAuth authentication
-* AES-256 encryption
-* Entity Framework Core
-* Clean Architecture
-* Docker
-* GitHub Actions
-* AWS infrastructure
-* Terraform
-* Nginx reverse proxy
-* PostgreSQL
-
-🔗 [View Repository](https://github.com/a7med3yad)
+Anonymous collaboration and idea-sharing platform designed for team-based evaluation and feedback.
+* **Tech Stack:** ASP.NET Core REST API, React, OAuth, AES-256 Encryption, EF Core, Clean Architecture, Docker, GitHub Actions, AWS, Terraform, Nginx, PostgreSQL
+* 🔗 [View Repository](https://github.com/a7med3yad)
 
 ---
 
 ### LMS
-
-Role-based Learning Management System backend supporting administrators, instructors, and students.
-
-**Key features:**
-
-* Clean Architecture
-* Repository & Unit of Work
-* JWT authentication
-* Refresh tokens
-* Email OTP
-* Google OAuth
-* Facebook OAuth
-* Role-based authorization
-* Entity Framework Core
-* RESTful APIs
-
-🔗 [View Repository](https://github.com/a7med3yad/LMS)
+Role-based Learning Management System backend catering to administrators, instructors, and students.
+* **Tech Stack:** Clean Architecture, Repository & Unit of Work patterns, JWT & Refresh Tokens, Email OTP, OAuth (Google & Facebook), Role-based Authorization, EF Core, RESTful APIs
+* 🔗 [View Repository](https://github.com/a7med3yad/LMS)
 
 ---
 
-##  Engineering Focus
+## Engineering Focus
 
 ### Backend Architecture
+Designing resilient backend systems engineered to manage domain complexity and scale seamlessly:
+* Clean Architecture, CQRS, and Domain-Driven Design (DDD)
+* SOLID principles and Object-Oriented Design Patterns
+* Robust API design, secure authentication, and authorization models
+* Automated testing strategies and relational database optimization
 
-I focus on building backend systems that remain maintainable as their complexity grows.
+### Cloud & DevOps Engineering
+Operating across both the application layer and cloud infrastructure:
+* AWS architecture, VPC networking, and managed storage/databases
+* Identity & Access Management (IAM) and network security configurations
+* Infrastructure as Code (IaC) and containerization with Docker & Kubernetes
+* Automated CI/CD deployment pipelines
 
-Areas of interest:
-
-* Clean Architecture
-* CQRS
-* Domain-Driven Design
-* SOLID principles
-* Design Patterns
-* API Design
-* Authentication & Authorization
-* Automated Testing
-* Database Design
-* Distributed Systems
-
-### Cloud Engineering
-
-I work across both application and infrastructure layers.
-
-Experience includes:
-
-* AWS architecture
-* VPC and networking
-* Compute and storage
-* Managed databases
-* IAM and security
-* Infrastructure as Code
-* Containerized deployments
-* CI/CD automation
-
-### Agentic AI
-
-Currently expanding my backend engineering background into AI systems.
-
-Focus areas:
-
-* Agent architecture
-* Tool calling
-* Agent orchestration
-* Context management
-* Memory systems
-* RAG
-* Vector search
-* LLM APIs
-* Developer productivity tools
+### Agentic AI Systems
+Combining backend engineering standards with modern AI frameworks:
+* Multi-agent architectures and tool-calling mechanisms
+* Context window management and persistent memory systems
+* RAG pipelines and vector database integrations
+* Developer-focused productivity tooling driven by LLMs
 
 ---
 
-##  Research
+## Research
 
-Co-authored a comparative study on **User-Centred Design in University Academic Portals**.
-
-The research included:
-
-* Student interviews
-* 50-participant survey
-* Heuristic evaluation
-* System Usability Scale benchmarking
-* Comparative analysis of three academic portals
-* UX-driven redesign recommendations
+Co-authored a comparative study evaluating **User-Centred Design in University Academic Portals**.
+* **Methodology:** Student interviews, a 50-participant survey, heuristic evaluations, and System Usability Scale (SUS) benchmarking.
+* **Outcome:** Delivered a comparative performance analysis across three academic portals along with UX-driven redesign recommendations.
 
 ---
 
-##  Teaching & Mentoring
+## Teaching & Mentoring
 
-Experience mentoring engineering students in:
+Mentored over **50 engineering students** across topics including:
+* Backend Development & General Programming
+* Applied Statistics, Probability, & Numerical Methods
+* Data Science Fundamentals
 
-* Backend Development
-* Programming
-* Statistics
-* Probability
-* Numerical Methods
-* Data Science
-
-**50+ students mentored**
-**100+ programming assignments and code submissions reviewed**
+Reviewed over **100 programming assignments** and code submissions to promote software design best practices.
 
 ---
 
-##  Achievements
+## Key Achievements
 
-* 🏅 **AWS Certified Cloud Practitioner** — 2026
-* 🥇 **10th Place** — ECPC
-* 🥈 **2nd Place** — EOCS Problem-Solving Contest
-* 💻 **700+ Competitive Programming Problems** solved across Codeforces, LeetCode, and VJudge
-
----
-
-##  Currently Learning
-
-* Agentic AI Systems
-* LLM Application Development
-* RAG Architectures
-* Vector Databases
-* Kubernetes
-* Microservices
-* Apache Kafka
-* AWS Solutions Architect Concepts
+* **AWS Certified Cloud Practitioner** — 2026
+* **10th Place** — Egyptian Collegiate Programming Contest (ECPC)
+* **2nd Place** — EOCS Problem-Solving Contest
+* **700+ Competitive Programming Problems Solved** across Codeforces, LeetCode, and VJudge
 
 ---
 
-##  GitHub Statistics
+## Active Learning & Focus Areas
+
+* Agentic AI Architecture & LLM Engineering
+* Production-Grade RAG Systems & Vector Databases
+* Kubernetes Orchestration & Microservices
+* Event-Driven Systems (Apache Kafka)
+* AWS Solutions Architect Professional Concepts
+
+---
+
+## GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=a7med3yad&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Statistics">
-
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3yad&hide_border=true&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak">
 </p>
 
